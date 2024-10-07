@@ -1,0 +1,42 @@
+[
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelona",
+    "champ": "Espagne Laliga",
+    "heure": "20:00",
+    "date": "2024-10-10",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/800px-S.S._Lazio_badge.svg.png",
+    "name1": "Lazio",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfTaRfTj63SobSI6fLE_pJHQzVcgCUR7Sqg&s",
+    "name2": "Atalanta",
+    "champ": "Premier League",
+    "heure": "21:00",
+    "date": "2024-10-11",
+    "pro": "Deux équipes vont marquer"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMdCAEBSFbrXCm5vEUVdMcXn34hZswKLCFw&s",
+    "name2": "Man Utd",
+    "champ": "Bundesliga",
+    "heure": "18:30",
+    "date": "2024-10-12",
+    "pro": "Total: (+3.5)"
+  }
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Unione_Sportiva_Salernitana_1919_%28logo%29.svg/1200px-Unione_Sportiva_Salernitana_1919_%28logo%29.svg.png",
+    "name1": "Salernitana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_Udinese.svg/1200px-Logo_Udinese.svg.png",
+    "name2": "Udinese",
+    "champ": "Bundesliga",
+    "heure": "18:30",
+    "date": "2024-10-12",
+    "pro": "Total: (+2.5)"
+  }
+]
