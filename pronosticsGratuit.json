@@ -1,42 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/1200px-Boca_Juniors_logo18.svg.png",
-    "name1": "Boca Junior",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Escudo_de_la_Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors.svg/1200px-Escudo_de_la_Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors.svg.png",
-    "name2": "Argentino Jrs",
-    "champ": "Espagne Laliga",
-    "heure": "20:00",
-    "date": "2024-10-10",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b2/Biggleswade_Town_F.C._logo.png",
+    "name1": "Biggleswade Town",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgs3n5iDpvj1Qb-umsJahJ04bt5t8Zb2xzw&s",
+    "name2": "Alfreton Town",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "08/10/2024",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/48/Lowestoft_Town_Badge.png",
+    "name1": "Lowestoft Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/10/Boro-300px.png",
+    "name2": "Haringey Borough",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "08/10/2024",
+    "pro": "1X Et TP (2.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Chesham_United_F.C._logo.png/220px-Chesham_United_F.C._logo.png",
+    "name1": "Chesham United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/89/Bishop%27s_Cleeve_logo.png",
+    "name2": "Bishop's Cleeve",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "08/10/2024",
     "pro": "V1"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ybrpSqYVk4NpraPdvTLe1yAC5ux8VmQj0Q&s",
-    "name1": "Man Utd",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/1200px-Celtic_fc.svg.png",
-    "name2": "Celtic",
-    "champ": "Premier League",
-    "heure": "21:00",
-    "date": "2024-10-11",
-    "pro": "Deux équipes vont marquer"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Real_Zaragoza_logo.svg/1200px-Real_Zaragoza_logo.svg.png",
-    "name1": "Real Zaragoza",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name2": "Braga",
-    "champ": "Bundesliga",
-    "heure": "18:30",
-    "date": "2024-10-12",
-    "pro": "Total: (+3.5)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbash",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FK_Bodo_Glimt_logo.svg/1200px-FK_Bodo_Glimt_logo.svg.png",
-    "name2": "Bodo Gim",
-    "champ": "Bundesliga",
-    "heure": "18:30",
-    "date": "2024-10-12",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/39/Neftekhimik_Nijnekamsk_2017.png",
+    "name1": "Neftekhimik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/32/HK_Amour_2014.png",
+    "name2": "Amour Khabarovsk",
+    "champ": "Hockey Ligue Continentale",
+    "heure": "16H00",
+    "date": "08/10/2024",
+    "pro": "Total: (+4)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/25/Severstal_Cherepovets_logo.png",
+    "name1": "Severstal Tcherepovets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
+    "name2": "Dinamo Minsk",
+    "champ": "Hockey Ligue Continentale",
+    "heure": "16H30",
+    "date": "08/10/2024",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
+    "name1": "Sotchi",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZu285ETGom_9P6vNR1NZIx8iJe7Li31vOQ&s",
+    "name2": "Vityaz",
+    "champ": "Hockey Ligue Continentale",
+    "heure": "16H30",
+    "date": "08/10/2024",
+    "pro": "Total: (+4.5)"
   }
 ]
