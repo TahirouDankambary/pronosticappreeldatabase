@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b2/Biggleswade_Town_F.C._logo.png",
-    "name1": "Biggleswade Town",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgs3n5iDpvj1Qb-umsJahJ04bt5t8Zb2xzw&s",
-    "name2": "Alfreton Town",
-    "champ": "Coupe d'Angleterre",
-    "heure": "18H45",
-    "date": "08/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+    "name1": "Bayern Munich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
+    "champ": "UEFA Femmes",
+    "heure": "16H45",
+    "date": "09/10/2024",
+    "pro": "But dans chaque mi-temps: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Hammarby_IF_%28logo%29.svg/1200px-Hammarby_IF_%28logo%29.svg.png",
+    "name1": "Hammarby",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/SKN_St._P%C3%B6lten_%28logo%29.svg/2202px-SKN_St._P%C3%B6lten_%28logo%29.svg.png",
+    "name2": "St.Polten",
+    "champ": "UEFA Femmes",
+    "heure": "16H45",
+    "date": "09/10/2024",
+    "pro": "V1 Et TP (2.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/7d/V%C3%A5lerenga_Oslo_logo.svg",
+    "name1": "Valerenga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg/langfr-130px-Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg.png",
+    "name2": "Juventus",
+    "champ": "UEFA Femmes",
+    "heure": "19H00",
+    "date": "09/10/2024",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "UEFA Femmes",
+    "heure": "19H00",
+    "date": "09/10/2024",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xOpfv-nxyqD4c-MTakl_3--PddB6aY2BKA&s",
+    "name1": "San Tirso",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Selaya_FC.png/180px-Selaya_FC.png",
+    "name2": "Selaya",
+    "champ": "Coupe du Roi",
+    "heure": "15H30",
+    "date": "09/10/2024",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/48/Lowestoft_Town_Badge.png",
-    "name1": "Lowestoft Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/10/Boro-300px.png",
-    "name2": "Haringey Borough",
-    "champ": "Coupe d'Angleterre",
-    "heure": "18H45",
-    "date": "08/10/2024",
-    "pro": "1X Et TP (2.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Chesham_United_F.C._logo.png/220px-Chesham_United_F.C._logo.png",
-    "name1": "Chesham United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/89/Bishop%27s_Cleeve_logo.png",
-    "name2": "Bishop's Cleeve",
-    "champ": "Coupe d'Angleterre",
-    "heure": "18H45",
-    "date": "08/10/2024",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/39/Neftekhimik_Nijnekamsk_2017.png",
-    "name1": "Neftekhimik",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/32/HK_Amour_2014.png",
-    "name2": "Amour Khabarovsk",
-    "champ": "Hockey Ligue Continentale",
-    "heure": "16H00",
-    "date": "08/10/2024",
-    "pro": "Total: (+4)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/25/Severstal_Cherepovets_logo.png",
-    "name1": "Severstal Tcherepovets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
-    "name2": "Dinamo Minsk",
-    "champ": "Hockey Ligue Continentale",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/da/CD_Sonseca.png",
+    "name1": "C.D.Sonseca",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/AD_Parla.svg/1200px-AD_Parla.svg.png",
+    "name2": "AD Parla",
+    "champ": "Coupe du Roi",
     "heure": "16H30",
-    "date": "08/10/2024",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
-    "name1": "Sotchi",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZu285ETGom_9P6vNR1NZIx8iJe7Li31vOQ&s",
-    "name2": "Vityaz",
-    "champ": "Hockey Ligue Continentale",
-    "heure": "16H30",
-    "date": "08/10/2024",
-    "pro": "Total: (+4.5)"
+    "date": "09/10/2024",
+    "pro": "Total: (+1.5)"
   }
 ]
