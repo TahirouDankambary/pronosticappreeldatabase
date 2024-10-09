@@ -1,62 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-    "name1": "Bayern Munich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "UEFA Femmes",
-    "heure": "16H45",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/1200px-Montreal_Canadiens.svg.png",
+    "name1": "Canadiens de Montréal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/3a/Logo_des_Maple_Leafs_de_Toronto_2016.png",
+    "name2": "Maple Leafs de Toronto",
+    "champ": "Hockey LNH",
+    "heure": "23H00",
     "date": "09/10/2024",
-    "pro": "But dans chaque mi-temps: OUI"
+    "pro": "Total 1: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Hammarby_IF_%28logo%29.svg/1200px-Hammarby_IF_%28logo%29.svg.png",
-    "name1": "Hammarby",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/SKN_St._P%C3%B6lten_%28logo%29.svg/2202px-SKN_St._P%C3%B6lten_%28logo%29.svg.png",
-    "name2": "St.Polten",
-    "champ": "UEFA Femmes",
-    "heure": "16H45",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Pittsburgh_Penguins_logo_%282016%29.svg/800px-Pittsburgh_Penguins_logo_%282016%29.svg.png",
+    "name1": "Pittsburgh Penguins",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_York_Rangers.svg/1200px-New_York_Rangers.svg.png",
+    "name2": "Rangers de New York",
+    "champ": "Hockey LNH",
+    "heure": "23H30",
     "date": "09/10/2024",
-    "pro": "V1 Et TP (2.5) - OUI"
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
-    "name1": "Valerenga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg/langfr-130px-Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg.png",
-    "name2": "Juventus",
-    "champ": "UEFA Femmes",
-    "heure": "19H00",
-    "date": "09/10/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/55/Logo_des_Golden_Knights_de_Vegas.png",
+    "name1": "Golden Knights de Vegas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Logo_Avalanche_Colorado.svg/1200px-Logo_Avalanche_Colorado.svg.png",
+    "name2": "Colorado Avalanche",
+    "champ": "Hockey LNH",
+    "heure": "02H00",
+    "date": "10/10/2024",
+    "pro": "Total: (+5.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/2048px-Logo_Manchester_City_2016.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "UEFA Femmes",
-    "heure": "19H00",
-    "date": "09/10/2024",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/10/Oilers_d%27Edmonton_2022.png",
+    "name1": "Oilers d'Edmonton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fb/Logo_des_Jets_de_Winnipeg.svg",
+    "name2": "Jets de Winnipeg",
+    "champ": "Hockey LNH",
+    "heure": "02H00",
+    "date": "10/10/2024",
+    "pro": "Handicap: 2(2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xOpfv-nxyqD4c-MTakl_3--PddB6aY2BKA&s",
-    "name1": "San Tirso",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Selaya_FC.png/180px-Selaya_FC.png",
-    "name2": "Selaya",
-    "champ": "Coupe du Roi",
-    "heure": "15H30",
-    "date": "09/10/2024",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_des_Canucks_de_Vancouver_2007.svg/1200px-Logo_des_Canucks_de_Vancouver_2007.svg.png",
+    "name1": "Vancouver Canucks",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Calgary_Flames_logo.svg/1200px-Calgary_Flames_logo.svg.png",
+    "name2": "Calgary Flames",
+    "champ": "Hockey LNH",
+    "heure": "02H00",
+    "date": "10/10/2024",
+    "pro": "Total: (+5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/da/CD_Sonseca.png",
-    "name1": "C.D.Sonseca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/AD_Parla.svg/1200px-AD_Parla.svg.png",
-    "name2": "AD Parla",
-    "champ": "Coupe du Roi",
-    "heure": "16H30",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTudmYomGmhT5YvOJBNDIgIGe61_Ik6nCfkmw&s",
+    "name1": "Knicks de New York",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
+    "name2": "Wizards de Washington",
+    "champ": "NBA Pré-saison",
+    "heure": "23H30",
     "date": "09/10/2024",
-    "pro": "Total: (+1.5)"
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/San_Antonio_Spurs.svg/1280px-San_Antonio_Spurs.svg.png",
+    "name1": "San Antonio Spurs",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Orlando_Magic_logo_2010.png/640px-Orlando_Magic_logo_2010.png",
+    "name2": "Magic d'Orlando",
+    "champ": "NBA Pré-saison",
+    "heure": "00H00",
+    "date": "10/10/2024",
+    "pro": "V1 Et TM(217.5) - Non"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Kansas_City_Royals_Primary_Logo.svg/1200px-Kansas_City_Royals_Primary_Logo.svg.png",
+    "name1": "Royals de Kansas City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yankees_logo.png",
+    "name2": "Yankees de New York",
+    "champ": "Baseball. MLB",
+    "heure": "23H08",
+    "date": "09/10/2024",
+    "pro": "Total: (+7)"
   }
 ]
