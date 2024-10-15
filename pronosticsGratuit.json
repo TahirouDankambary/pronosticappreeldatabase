@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/2560px-Flag_of_Belarus.svg.png",
-    "name1": "Bélarus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/langfr-225px-Flag_of_Luxembourg.svg.png",
-    "name2": "Luxembourg",
-    "champ": "Ligue des Nations de l'UEFA",
-    "heure": "18H45",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/600px-Raptors_de_Toronto.png",
+    "name1": "Raptors de Toronto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+    "name2": "Celtics de Boston",
+    "champ": "NBA. Pré-saison",
+    "heure": "23H00",
     "date": "15/10/2024",
-    "pro": "1X"
+    "pro": "Total: (-228.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/270px-Flag_of_Spain.svg.png",
-    "name1": "Espagne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png",
-    "name2": "Serbie",
-    "champ": "Ligue des Nations de l'UEFA",
-    "heure": "18H45",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png",
+    "name1": "Heat de Miami",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1VLAN5QiZxuurbE0y4AnrmAiQ4PfBYJsUA&s",
+    "name2": "San Antonio Spurs",
+    "champ": "NBA. Pré-saison",
+    "heure": "23H30",
     "date": "15/10/2024",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "pro": "Total: (+203.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/640px-Flag_of_Kosovo.svg.png",
-    "name1": "Kosovo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/langfr-225px-Flag_of_Cyprus.svg.png",
-    "name2": "Chypre",
-    "champ": "Ligue des Nations de l'UEFA",
-    "heure": "18H45",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTudmYomGmhT5YvOJBNDIgIGe61_Ik6nCfkmw&s",
+    "name1": "Knicks de New York",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",
+    "name2": "Charlotte Hornets",
+    "champ": "NBA. Pré-saison",
+    "heure": "23H30",
     "date": "15/10/2024",
-    "pro": "V1"
+    "pro": "Temps réglementaire: 1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/2000px-Flag_of_Lithuania.svg.png",
-    "name1": "Lituanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png",
-    "name2": "Roumanie",
-    "champ": "Ligue des Nations de l'UEFA",
-    "heure": "18H45",
-    "date": "15/10/2024",
-    "pro": "Total 2: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/Houston_Rockets_logo_2019.png/220px-Houston_Rockets_logo_2019.png",
+    "name1": "Rockets de Houston",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/New_Orleans_Pelicans_2023.png/640px-New_Orleans_Pelicans_2023.png",
+    "name2": "Pelicans de la Nouvelle-Orléans",
+    "champ": "NBA. Pré-saison",
+    "heure": "00H00",
+    "date": "16/10/2024",
+    "pro": "Total: (-221.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1024px-Flag_of_Poland.svg.png",
-    "name1": "Pologne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Civil_ensign_of_Croatia.svg/langfr-225px-Civil_ensign_of_Croatia.svg.png",
-    "name2": "Croatie",
-    "champ": "Ligue des Nations de l'UEFA",
-    "heure": "18H45",
-    "date": "15/10/2024",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
+    "name1": "Denver nuggets",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3hlWbg7NfBVyPqt7hARRrIa_ICWN4efW4aQ&s",
+    "name2": "Oklahoma City",
+    "champ": "NBA. Pré-saison",
+    "heure": "01H00",
+    "date": "16/10/2024",
+    "pro": "Total: (+216.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg/600px-Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg.png",
-    "name1": "Irlande du Nord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/800px-Flag_of_Bulgaria.svg.png",
-    "name2": "Bulgarie",
-    "champ": "Ligue des Nations de l'UEFA",
-    "heure": "18H45",
-    "date": "15/10/2024",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+    "name1": "Lakers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
+    "name2": "Warriors de Golden State",
+    "champ": "NBA. Pré-saison",
+    "heure": "02H00",
+    "date": "16/10/2024",
+    "pro": "Total: (+210.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/langfr-225px-Civil_Ensign_of_Switzerland.svg.png",
-    "name1": "Suisse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2000px-Flag_of_Denmark.svg.png",
-    "name2": "Danemark",
-    "champ": "Ligue des Nations de l'UEFA",
-    "heure": "18H45",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPatc4OnC0rvYvZ5Blb0gkTX2xaRlqmlR6PA&s",
+    "name1": "Yankees de New York",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cleveland_Guardians_wordmark_%E2%80%9CC%E2%80%9D_logo.png",
+    "name2": "Cleveland Guardians",
+    "champ": "Baseball. MLB",
+    "heure": "23H38",
     "date": "15/10/2024",
-    "pro": "Total: (+1.5)"
+    "pro": "Total: (+5.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/2560px-Flag_of_Scotland.svg.png",
-    "name1": "Écosse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png",
-    "name2": "Portugal",
-    "champ": "Ligue des Nations de l'UEFA",
-    "heure": "18H45",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYu2BtFmVeG6j-y5OHcrPXtf4uaV3tVuCJ6A&s",
+    "name1": "Blue Jackets de Columbus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Florida_Panthers_2016_logo.svg/800px-Florida_Panthers_2016_logo.svg.png",
+    "name2": "Florida Panthers",
+    "champ": "Hockey. LNH",
+    "heure": "23H00",
     "date": "15/10/2024",
-    "pro": "Deux équipes vont marquer: OUI"
+    "pro": "2X"
   }
 ]
