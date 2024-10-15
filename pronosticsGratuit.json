@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1200px-Pacers_de_l%27Indiana_logo.svg.png",
-    "name1": "Pacers de l'Indiana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/Grizzlies_de_Memphis_logo.svg/1200px-Grizzlies_de_Memphis_logo.svg.png",
-    "name2": "Grizzlies de Memphis",
-    "champ": "NBA. Pré-saison",
-    "heure": "23H00",
-    "date": "14/10/2024",
-    "pro": "Total: (-243.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
-    "name1": "Atlanta Hawks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png",
-    "name2": "76ers de Philadelphie",
-    "champ": "NBA. Pré-saison",
-    "heure": "23H30",
-    "date": "14/10/2024",
-    "pro": "Total 1: (+114.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/200px-Brooklyn_Nets_newlogo.svg.png",
-    "name1": "Brooklyn Nets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
-    "name2": "Wizards de Washington",
-    "champ": "NBA. Pré-saison",
-    "heure": "23H30",
-    "date": "14/10/2024",
-    "pro": "Total: (+215.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/1200px-Milwaukee_Bucks_logo.svg.png",
-    "name1": "Bucks de Milwaukee",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png",
-    "name2": "Bulls de Chicago",
-    "champ": "NBA. Pré-saison",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/2560px-Flag_of_Belarus.svg.png",
+    "name1": "Bélarus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/langfr-225px-Flag_of_Luxembourg.svg.png",
+    "name2": "Luxembourg",
+    "champ": "Ligue des Nations de l'UEFA",
+    "heure": "18H45",
     "date": "15/10/2024",
-    "pro": "Chaque équipe va marquer TP(+102.5) ou Plus"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDrjEj5MnIHYfH0wSPdIm6wGtSRHyNUIK2A&s",
-    "name1": "Clippers de Los Angeles",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTfLPRxmQf0zpm9qVtMMq6-7RV3gZ393Jtg&s",
-    "name2": "Mavericks de Dallas",
-    "champ": "NBA. Pré-saison",
-    "heure": "02H30",
-    "date": "15/10/2024",
-    "pro": "Total: (+212.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_York_Rangers.svg/1200px-New_York_Rangers.svg.png",
-    "name1": "Rangers de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_des_Red_Wings_de_D%C3%A9troit_1948.svg/1200px-Logo_des_Red_Wings_de_D%C3%A9troit_1948.svg.png",
-    "name2": "Red Wings de Détroit",
-    "champ": "Hockey. LNH",
-    "heure": "23H00",
-    "date": "14/10/2024",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/1200px-Montreal_Canadiens.svg.png",
-    "name1": "Canadiens de Montréal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Pittsburgh_Penguins_logo_%282016%29.svg/800px-Pittsburgh_Penguins_logo_%282016%29.svg.png",
-    "name2": "Pittsburgh Penguins",
-    "champ": "Hockey. LNH",
-    "heure": "23H30",
-    "date": "14/10/2024",
-    "pro": "Total: (+5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/270px-Flag_of_Spain.svg.png",
+    "name1": "Espagne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png",
+    "name2": "Serbie",
+    "champ": "Ligue des Nations de l'UEFA",
+    "heure": "18H45",
+    "date": "15/10/2024",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Logo_Avalanche_Colorado.svg/1200px-Logo_Avalanche_Colorado.svg.png",
-    "name1": "Colorado Avalanche",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ef/Logo_des_Islanders_de_New_York_2017.png",
-    "name2": "Islanders de New York",
-    "champ": "Hockey. LNH",
-    "heure": "01H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/640px-Flag_of_Kosovo.svg.png",
+    "name1": "Kosovo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/langfr-225px-Flag_of_Cyprus.svg.png",
+    "name2": "Chypre",
+    "champ": "Ligue des Nations de l'UEFA",
+    "heure": "18H45",
     "date": "15/10/2024",
-    "pro": "Handicap: 2(2)"
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/2000px-Flag_of_Lithuania.svg.png",
+    "name1": "Lituanie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png",
+    "name2": "Roumanie",
+    "champ": "Ligue des Nations de l'UEFA",
+    "heure": "18H45",
+    "date": "15/10/2024",
+    "pro": "Total 2: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1024px-Flag_of_Poland.svg.png",
+    "name1": "Pologne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Civil_ensign_of_Croatia.svg/langfr-225px-Civil_ensign_of_Croatia.svg.png",
+    "name2": "Croatie",
+    "champ": "Ligue des Nations de l'UEFA",
+    "heure": "18H45",
+    "date": "15/10/2024",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg",
+    "name1": "Irlande du Nord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/800px-Flag_of_Bulgaria.svg.png",
+    "name2": "Bulgarie",
+    "champ": "Ligue des Nations de l'UEFA",
+    "heure": "18H45",
+    "date": "15/10/2024",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/langfr-225px-Civil_Ensign_of_Switzerland.svg.png",
+    "name1": "Suisse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2000px-Flag_of_Denmark.svg.png",
+    "name2": "Danemark",
+    "champ": "Ligue des Nations de l'UEFA",
+    "heure": "18H45",
+    "date": "15/10/2024",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/2560px-Flag_of_Scotland.svg.png",
+    "name1": "Écosse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png",
+    "name2": "Portugal",
+    "champ": "Ligue des Nations de l'UEFA",
+    "heure": "18H45",
+    "date": "15/10/2024",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
