@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Raptors_de_Toronto.png/600px-Raptors_de_Toronto.png",
-    "name1": "Raptors de Toronto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
-    "name2": "Celtics de Boston",
-    "champ": "NBA. Pré-saison",
-    "heure": "23H00",
-    "date": "15/10/2024",
-    "pro": "Total: (-228.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/PFC_Sochi_logo.svg/1200px-PFC_Sochi_logo.svg.png",
+    "name1": "Sochi",
+    "photo2": "https://toppng.com/uploads/preview/fk-volga-ulyanovsk-vector-logo-11574293812gaazztjbwr.png",
+    "name2": "Volga Ulyanovsk",
+    "champ": "Coupe de Russie",
+    "heure": "16H30",
+    "date": "16/10/2024",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png",
-    "name1": "Heat de Miami",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1VLAN5QiZxuurbE0y4AnrmAiQ4PfBYJsUA&s",
-    "name2": "San Antonio Spurs",
-    "champ": "NBA. Pré-saison",
-    "heure": "23H30",
-    "date": "15/10/2024",
-    "pro": "Total: (+203.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyR8Ek1eRgLJsFOWtB8JCwj-SIlWBNvT0Tw&s",
+    "name1": "Torpedo Moscou",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqE7fr3fi97qqcBADzVL9bsyIJhDFpgs8rJQ&s",
+    "name2": "Baltika Kaliningrad",
+    "champ": "Coupe de Russie",
+    "heure": "16H30",
+    "date": "16/10/2024",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTudmYomGmhT5YvOJBNDIgIGe61_Ik6nCfkmw&s",
-    "name1": "Knicks de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png",
-    "name2": "Charlotte Hornets",
-    "champ": "NBA. Pré-saison",
-    "heure": "23H30",
-    "date": "15/10/2024",
-    "pro": "Temps réglementaire: 1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_HC_Red_Star_Kunlun.png/467px-Logo_HC_Red_Star_Kunlun.png",
+    "name1": "Kunlun Red Star",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
+    "name2": "Lokomotiv",
+    "champ": "Hockey. Ligue Continentale",
+    "heure": "16H30",
+    "date": "16/10/2024",
+    "pro": "Total: (+4.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/Houston_Rockets_logo_2019.png/220px-Houston_Rockets_logo_2019.png",
-    "name1": "Rockets de Houston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/New_Orleans_Pelicans_2023.png/640px-New_Orleans_Pelicans_2023.png",
-    "name2": "Pelicans de la Nouvelle-Orléans",
-    "champ": "NBA. Pré-saison",
-    "heure": "00H00",
+    "photo1": "https://www.mavelore.hu/wp-content/uploads/mav-elore-logo_.png",
+    "name1": "Mav Elore",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWevr1J1CIBdQULXN9T6XQ9TnHhz7XR1u0A&s",
+    "name2": "OK Centrometal",
+    "champ": "Volleyball. Cup de la CEV",
+    "heure": "15H30",
     "date": "16/10/2024",
-    "pro": "Total: (-221.5)"
+    "pro": "Total: (+173.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png",
-    "name1": "Denver nuggets",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3hlWbg7NfBVyPqt7hARRrIa_ICWN4efW4aQ&s",
-    "name2": "Oklahoma City",
-    "champ": "NBA. Pré-saison",
-    "heure": "01H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/12/SCM_Zal%C4%83u_logo.png",
+    "name1": "SCM Zalau",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
+    "name2": "Sporting CP",
+    "champ": "Volleyball. Cup de la CEV",
+    "heure": "15H00",
     "date": "16/10/2024",
-    "pro": "Total: (+216.5)"
+    "pro": "Total 1: (+79.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
-    "name1": "Lakers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
-    "name2": "Warriors de Golden State",
-    "champ": "NBA. Pré-saison",
-    "heure": "02H00",
+    "photo1": "https://volleybox.net/media/upload/teams/big_1709980291cZ0Aq.png",
+    "name1": "Bigbank Tartu",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_6row9n--rxpYgH-khnqmgmvYqL5cuiJyw&s",
+    "name2": "Zhitichi Zhitomir",
+    "champ": "Volleyball. Cup de la CEV",
+    "heure": "16H00",
     "date": "16/10/2024",
-    "pro": "Total: (+210.5)"
+    "pro": "Total 1: (+88.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPatc4OnC0rvYvZ5Blb0gkTX2xaRlqmlR6PA&s",
-    "name1": "Yankees de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cleveland_Guardians_wordmark_%E2%80%9CC%E2%80%9D_logo.png",
-    "name2": "Cleveland Guardians",
-    "champ": "Baseball. MLB",
-    "heure": "23H38",
-    "date": "15/10/2024",
-    "pro": "Total: (+5.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/De_Minaur_RG19_%2823%29_%2848199315646%29.jpg/170px-De_Minaur_RG19_%2823%29_%2848199315646%29.jpg",
+    "name1": "Alex de Minaur",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/59/Carballes_Baena_WMQ15_%287%29_%2819957495261%29.jpg",
+    "name2": "Roberto Carballes",
+    "champ": "Tennis. ATP. Anvers",
+    "heure": "16H30",
+    "date": "16/10/2024",
+    "pro": "Total: (+18)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYu2BtFmVeG6j-y5OHcrPXtf4uaV3tVuCJ6A&s",
-    "name1": "Blue Jackets de Columbus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Florida_Panthers_2016_logo.svg/800px-Florida_Panthers_2016_logo.svg.png",
-    "name2": "Florida Panthers",
-    "champ": "Hockey. LNH",
-    "heure": "23H00",
-    "date": "15/10/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Felix_Auger-Aliassime_%28cropped%29.jpg",
+    "name1": "Félix Auger",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fucsovics_MCM22_%288%29_%2852036404416%29.jpg",
+    "name2": "Marton Fucsovics",
+    "champ": "Tennis. ATP. Anvers",
+    "heure": "18H00",
+    "date": "16/10/2024",
+    "pro": "Handicap: 2(4.5)"
   }
 ]
