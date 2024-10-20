@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "name1": "Nottingham Forest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name2": "Crystal Palace",
     "champ": "Angleterre. Premier League",
-    "heure": "15H30",
-    "date": "20/10/2024",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/640px-Logo_VfL_Wolfsburg_2024.svg.png",
-    "name1": "VfL Wolfsburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
-    "name2": "Werder Bremen",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "15H30",
-    "date": "20/10/2024",
+    "heure": "19H00",
+    "date": "21/10/2024",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name1": "Atlético de Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/1200px-Club_Deportivo_Legan%C3%A9s_logo.svg.png",
-    "name2": "Club Deportivo Leganés",
-    "champ": "Espagne. LaLiga",
-    "heure": "14H15",
-    "date": "20/10/2024",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Villarreal_CF_logo.svg/1200px-Villarreal_CF_logo.svg.png",
-    "name1": "Villarreal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
-    "name2": "Getafe",
-    "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "20/10/2024",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/1200px-Logo_Sevilla_FC.svg.png",
-    "name2": "Séville",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
+    "name2": "Las Palmas",
     "champ": "Espagne. LaLiga",
     "heure": "19H00",
-    "date": "20/10/2024",
-    "pro": "Total 1: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
-    "name1": "Cagliari Calcio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
-    "name2": "Torino",
-    "champ": "Italie. Série A",
-    "heure": "16H00",
-    "date": "20/10/2024",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/1200px-AS_Roma_Logo_2017.svg.png",
-    "name1": "Roma",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
-    "name2": "Inter Milan",
-    "champ": "Italie. Série A",
-    "heure": "18H45",
-    "date": "20/10/2024",
+    "date": "21/10/2024",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/1200px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
-    "name1": "Nantes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1200px-Logo_OGC_Nice_2013.svg.png",
-    "name2": "Nice",
-    "champ": "France. Ligue 1",
-    "heure": "15H00",
-    "date": "20/10/2024",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
+    "name1": "Hellas Verona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
+    "name2": "Monza 1912",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "21/10/2024",
     "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/FC_Tyumen_logo.svg/1750px-FC_Tyumen_logo.svg.png",
+    "name1": "Tioumen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/14/FC_Torpedo_Moscow_Logotype_2023.png",
+    "name2": "Torpedo Moscou",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "14H00",
+    "date": "21/10/2024",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a6/FCChayka2020.png",
+    "name1": "Tchaïka Pestchano Kopske",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIJEafT-rhifbmUWA2LO0KulvA2B-K3oWxg&s",
+    "name2": "Arsenal Tula",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "16H00",
+    "date": "21/10/2024",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/1200px-ES_Troyes_AC.svg.png",
+    "name1": "Troyes AC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDaiLyDT575BayEzENPR8RqvOTSdkZ2sKAQ&s",
+    "name2": "Paris",
+    "champ": "France. Ligue 2",
+    "heure": "18H45",
+    "date": "21/10/2024",
+    "pro": "But 1 jusqu'a Minute 15 - NON"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/800px-Ajax_Amsterdam.svg.png",
+    "name1": "AFC Ajax ||",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/ADO_Den_Haag_logo.svg/1200px-ADO_Den_Haag_logo.svg.png",
+    "name2": "ADO La Haye",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "21/10/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4d/SC_Cambuur_logo.png",
+    "name1": "Cambuur",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/23/FC_Eindhoven.png",
+    "name2": "Eindhoven",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "21/10/2024",
+    "pro": "V1"
   }
 ]
