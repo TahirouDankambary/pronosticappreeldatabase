@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfTaRfTj63SobSI6fLE_pJHQzVcgCUR7Sqg&s",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/1200px-Celtic_fc.svg.png",
-    "name2": "Celtic",
-    "champ": "UEFA",
-    "heure": "16H45",
-    "date": "23/10/2024",
-    "pro": "Total 1: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/V%C3%ADkingur_Reykjavik_%28logo%29.svg/1200px-V%C3%ADkingur_Reykjavik_%28logo%29.svg.png",
+    "name1": "Vikingur Reykjavik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Logo_Cercle_Bruges_KSV_2023.svg/1200px-Logo_Cercle_Bruges_KSV_2023.svg.png",
+    "name2": "Cercle Brugge",
+    "champ": "Ligue Europa Conférence",
+    "heure": "14H30",
+    "date": "24/10/2024",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
-    "name1": "Stade Brestois 29",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5enGUPEAlo8MGCesUUaDc-klGTGfjP1wSnA&s",
-    "name2": "Leverkusen",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/APOEL_%28logo_with_stars%29.svg/1200px-APOEL_%28logo_with_stars%29.svg.png",
+    "name1": "APOEL",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/29/Borac_Banja_Luka.png",
+    "name2": "Borac Banja Luka",
+    "champ": "Ligue Europa Conférence",
     "heure": "16H45",
-    "date": "23/10/2024",
+    "date": "24/10/2024",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/KAA_Gent_logo.svg/1200px-KAA_Gent_logo.svg.png",
+    "name1": "KAA La Gantoise",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1200px-Molde_Fotball_Logo.svg.png",
+    "name2": "Molde",
+    "champ": "Ligue Europa Conférence",
+    "heure": "16H45",
+    "date": "24/10/2024",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/23/Larne_FC_%28logo%29.svg",
+    "name1": "Larne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name2": "Shamrock Rovers",
+    "champ": "Ligue Europa Conférence",
+    "heure": "16H45",
+    "date": "24/10/2024",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea",
+    "champ": "Ligue Europa Conférence",
+    "heure": "16H45",
+    "date": "24/10/2024",
     "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name1": "Atlético de Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1076px-Logo_LOSC_Lille_2018.svg.png",
-    "name2": "Lille OSC",
-    "champ": "UEFA",
-    "heure": "19H00",
-    "date": "23/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/bf/SK_Rapid_Wien_Logo.svg",
+    "name1": "Rapid Vienne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Noah_logo.png",
+    "name2": "Noah Yerevan",
+    "champ": "Ligue Europa Conférence",
+    "heure": "16H45",
+    "date": "24/10/2024",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FC_St._Gallen_logo.svg/1200px-FC_St._Gallen_logo.svg.png",
+    "name1": "Saint-Gall",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/Logo_ACF_Fiorentina_-_2022.svg/1200px-Logo_ACF_Fiorentina_-_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Ligue Europa Conférence",
+    "heure": "16H45",
+    "date": "24/10/2024",
     "pro": "Deux équipes vont marquer: OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/2072px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png",
-    "name2": "Feyenoord",
-    "champ": "UEFA",
-    "heure": "19H00",
-    "date": "23/10/2024",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
+    "name1": "Heart of Midlothian",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/AC_Omonia_logo.svg/1200px-AC_Omonia_logo.svg.png",
+    "name2": "AC Omonia",
+    "champ": "Ligue Europa Conférence",
+    "heure": "16H45",
+    "date": "24/10/2024",
     "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/2048px-Logo_Manchester_City_2016.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/640px-AC-Sparta-LOGO2021.svg.png",
-    "name2": "AC Sparta Prague",
-    "champ": "UEFA",
-    "heure": "19H00",
-    "date": "23/10/2024",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/640px-Logo_RB_Leipzig_2020.svg.png",
-    "name1": "Leipzig",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
-    "name2": "Liverpool",
-    "champ": "UEFA",
-    "heure": "19H00",
-    "date": "23/10/2024",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/34/FC_Salzburg_logo.png",
-    "name1": "FC Salzburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/73/Dinamo_Zagreb_logo.png",
-    "name2": "Dinamo Zagreb",
-    "champ": "UEFA",
-    "heure": "19H00",
-    "date": "23/10/2024",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/BSC_Young_Boys_logo.svg/2048px-BSC_Young_Boys_logo.svg.png",
-    "name1": "Young Boys",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
-    "name2": "Inter Milan",
-    "champ": "UEFA",
-    "heure": "19H00",
-    "date": "23/10/2024",
-    "pro": "2X Et TP(1.5) - OUI"
   }
 ]
