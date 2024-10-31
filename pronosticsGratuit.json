@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Logo_Venezia_FC_-_2022.svg/2015px-Logo_Venezia_FC_-_2022.svg.png",
-    "name1": "Venise FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
-    "name2": "Udinese Calcio",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/800px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name1": "Genoa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/Logo_ACF_Fiorentina_-_2022.svg/2048px-Logo_ACF_Fiorentina_-_2022.svg.png",
+    "name2": "Fiorentina",
     "champ": "Italie. Série A",
     "heure": "17H30",
-    "date": "30/10/2024",
+    "date": "31/10/2024",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/464px-Logo_Como_1907_2019.png",
+    "name1": "Como",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/800px-S.S._Lazio_badge.svg.png",
+    "name2": "Lazio",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "31/10/2024",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Empoli_FC_%28logo%29.svg/1745px-Empoli_FC_%28logo%29.svg.png",
-    "name1": "Empoli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/800px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
-    "champ": "Italie. Série A",
-    "heure": "17H30",
-    "date": "30/10/2024",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/1200px-Logo_Atalanta_Bergame_2024.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/AC_Monza_logo_%282021%29.svg/640px-AC_Monza_logo_%282021%29.svg.png",
-    "name2": "Monza 1912",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
+    "name2": "Torino",
     "champ": "Italie. Série A",
     "heure": "19H45",
-    "date": "30/10/2024",
-    "pro": "Total 1: (+1.5)"
+    "date": "31/10/2024",
+    "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbleEApr-WCEn1C4kB80G_478R4P4ZK0WfvA&s",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/459px-Logo_Parma.svg.png",
-    "name2": "Parma",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "30/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/UD_Barbastro_%28logo%29.svg/1200px-UD_Barbastro_%28logo%29.svg.png",
+    "name1": "UD Barbastro",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/8c/Logo_SD_Amorebieta.svg",
+    "name2": "SD Amorebieta",
+    "champ": "Espagne. Coupe du Roi",
+    "heure": "18H00",
+    "date": "31/10/2024",
+    "pro": "Total 1: (+0.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYAqp815RWPHgtztVGsQaT78gzpdhPcQn8w&s",
+    "name1": "Real Ávila CF",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
+    "name2": "Real Oviedo",
+    "champ": "Espagne. Coupe du Roi",
+    "heure": "19H00",
+    "date": "31/10/2024",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnUCjr1gkf3SV39dsNfkciNJXIdLtdTbnEA&s",
+    "name1": "CD Tudelano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Deportiva_Minera.png/220px-Deportiva_Minera.png",
+    "name2": "Club Deportiva Minera",
+    "champ": "Espagne. Coupe du Roi",
+    "heure": "19H00",
+    "date": "31/10/2024",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_Brighton_Hove_Albion_2011.svg/1200px-Logo_Brighton_Hove_Albion_2011.svg.png",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Angleterre. Coupe de la Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f3/CD_Don_Benito.png",
+    "name1": "Don Benito",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/fb/FC_Andorra_logo.png",
+    "name2": "Andorra",
+    "champ": "Espagne. Coupe du Roi",
     "heure": "19H30",
-    "date": "30/10/2024",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "31/10/2024",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
-    "name1": "Aston Villa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name2": "Crystal Palace",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "19H45",
-    "date": "30/10/2024",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name2": "Leicester City",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "19H45",
-    "date": "30/10/2024",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "19H45",
-    "date": "30/10/2024",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d6/CD_Alfaro_logo.png",
+    "name1": "Alfaro",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Escucdt.png",
+    "name2": "Ténérife",
+    "champ": "Espagne. Coupe du Roi",
+    "heure": "20H00",
+    "date": "31/10/2024",
+    "pro": "V2"
   }
 ]
