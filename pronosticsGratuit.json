@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/800px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name1": "Genoa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/Logo_ACF_Fiorentina_-_2022.svg/2048px-Logo_ACF_Fiorentina_-_2022.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Italie. Série A",
-    "heure": "17H30",
-    "date": "31/10/2024",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Notts_County_Logo.svg/800px-Notts_County_Logo.svg.png",
+    "name1": "Notts County",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Logo_Alfreton_Town_FC_2015.svg",
+    "name2": "Alfreon Town",
+    "champ": "Coupe D'Angleterre",
+    "heure": "19H45",
+    "date": "01/11/2024",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/464px-Logo_Como_1907_2019.png",
-    "name1": "Como",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/800px-S.S._Lazio_badge.svg.png",
-    "name2": "Lazio",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Tamworth_FC.svg/800px-Tamworth_FC.svg.png",
+    "name1": "Tamworth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/sco/5/5a/Huddersfield_Town_A.F.C._logo.svg",
+    "name2": "Huddersfield Town",
+    "champ": "Coupe D'Angleterre",
     "heure": "19H45",
-    "date": "31/10/2024",
+    "date": "01/11/2024",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_Luton_Town_2009_FC.svg/1200px-Logo_Luton_Town_2009_FC.svg.png",
+    "name1": "Luton Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/West_Bromwich_Albion.svg/1200px-West_Bromwich_Albion.svg.png",
+    "name2": "West Bromwich",
+    "champ": "Angleterre. Championship",
+    "heure": "20H00",
+    "date": "01/11/2024",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "name1": "Bayer Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1882px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "VfB Stuttgart",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "01/11/2024",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f8/Deportivo_Alaves_logo_%282020%29.svg",
+    "name1": "Deportivo Alavés",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmkQJFHBp5UnbRo-wnE9ibZxDZT1R-0Scgw&s",
+    "name2": "Majorque",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "01/11/2024",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-    "name1": "Roma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
-    "name2": "Torino",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "31/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/DinamoMoscow.svg/1200px-DinamoMoscow.svg.png",
+    "name1": "Dynamo Moscou",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfowjSJ-wad-rYYqXWi_-UKeToK7kwOEFPlA&s",
+    "name2": "Rostov",
+    "champ": "Russie. Première Ligue",
+    "heure": "16H00",
+    "date": "01/11/2024",
     "pro": "Deux équipes vont marquer: OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/UD_Barbastro_%28logo%29.svg/1200px-UD_Barbastro_%28logo%29.svg.png",
-    "name1": "UD Barbastro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_SD_Amorebieta.svg/1200px-Logo_SD_Amorebieta.svg.png",
-    "name2": "SD Amorebieta",
-    "champ": "Espagne. Coupe du Roi",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
+    "name1": "AS Monaco",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwErU68BHW_weEBXHOOuOS3khwhCHbPIGqlg&s",
+    "name2": "Angers SCO",
+    "champ": "France. Ligue 1",
     "heure": "18H00",
-    "date": "31/10/2024",
-    "pro": "Total 1: (+0.5)"
+    "date": "01/11/2024",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYAqp815RWPHgtztVGsQaT78gzpdhPcQn8w&s",
-    "name1": "Real Ávila CF",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
-    "name2": "Real Oviedo",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "19H00",
-    "date": "31/10/2024",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnUCjr1gkf3SV39dsNfkciNJXIdLtdTbnEA&s",
-    "name1": "CD Tudelano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Deportiva_Minera.png/220px-Deportiva_Minera.png",
-    "name2": "Club Deportiva Minera",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "19H00",
-    "date": "31/10/2024",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f3/CD_Don_Benito.png",
-    "name1": "Don Benito",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/fb/FC_Andorra_logo.png",
-    "name2": "Andorra",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "19H30",
-    "date": "31/10/2024",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d6/CD_Alfaro_logo.png",
-    "name1": "Alfaro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Escucdt.png",
-    "name2": "Ténérife",
-    "champ": "Espagne. Coupe du Roi",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1200px-Logo_LOSC_Lille_2018.svg.png",
+    "name1": "Lille OSC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/640px-Olympique_Lyonnais_logo.svg.png",
+    "name2": "Lyon",
+    "champ": "France. Ligue 1",
     "heure": "20H00",
-    "date": "31/10/2024",
-    "pro": "V2"
+    "date": "01/11/2024",
+    "pro": "12"
   }
 ]
