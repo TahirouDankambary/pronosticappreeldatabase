@@ -2,8 +2,8 @@
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Notts_County_Logo.svg/800px-Notts_County_Logo.svg.png",
     "name1": "Notts County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/cf/Logo_Alfreton_Town_FC_2015.svg",
-    "name2": "Alfreon Town",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgs3n5iDpvj1Qb-umsJahJ04bt5t8Zb2xzw&s",
+    "name2": "Alfreton Town",
     "champ": "Coupe D'Angleterre",
     "heure": "19H45",
     "date": "01/11/2024",
@@ -12,7 +12,7 @@
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Tamworth_FC.svg/800px-Tamworth_FC.svg.png",
     "name1": "Tamworth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/sco/5/5a/Huddersfield_Town_A.F.C._logo.svg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Huddersfield_Town_AFC_2019.svg/1200px-Logo_Huddersfield_Town_AFC_2019.svg.png",
     "name2": "Huddersfield Town",
     "champ": "Coupe D'Angleterre",
     "heure": "19H45",
@@ -40,7 +40,7 @@
     "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f8/Deportivo_Alaves_logo_%282020%29.svg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
     "name1": "Deportivo Alavés",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmkQJFHBp5UnbRo-wnE9ibZxDZT1R-0Scgw&s",
     "name2": "Majorque",
