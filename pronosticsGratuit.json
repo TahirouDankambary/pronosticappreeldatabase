@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
-    "name2": "Aston Villa",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
+    "name1": "Fulham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
+    "name2": "Brentford",
     "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "03/11/2024",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ybrpSqYVk4NpraPdvTLe1yAC5ux8VmQj0Q&s",
-    "name1": "Man Utd",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Premier League",
-    "heure": "16H30",
-    "date": "03/11/2024",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/800px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwV0JfLi5_kRnoyVmqlWE9Unt2MjN-8PmBMw&s",
-    "name2": "Mayence",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "03/11/2024",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/640px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
-    "name1": "Borussia Mönchengladbach",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Werder_Bremen_2024.svg/1200px-Logo_Werder_Bremen_2024.svg.png",
-    "name2": "Werder Bremen",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "03/11/2024",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1792px-Fakel_Voronezh_logo.svg.png",
-    "name1": "Fakel Voronej",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXOF3p1w9ha1dDZsFD60p10M1U2SJ3TLr5VA&s",
-    "name2": "Khimki",
-    "champ": "Russie. Première League",
-    "heure": "14H30",
-    "date": "03/11/2024",
+    "heure": "20H00",
+    "date": "04/11/2024",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/FC_Krasnodar_logo.svg/1200px-FC_Krasnodar_logo.svg.png",
-    "name1": "Krasnodar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/FK_Orenbourg_%28logo%29.svg/1200px-FK_Orenbourg_%28logo%29.svg.png",
-    "name2": "Orenbourg",
-    "champ": "Russie. Première League",
-    "heure": "16H45",
-    "date": "03/11/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/1200px-RC_Celta_de_Vigo_logo.svg.png",
+    "name1": "Celta de Vigo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1200px-Getafe_logo.svg.png",
+    "name2": "Getafe",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "04/11/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ntFUb0v9lTwVXcjxp5upU1gjrO_GM5X0vQ&s",
+    "name1": "Parma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name2": "Genoa",
+    "champ": "Italie. SérieA",
+    "heure": "17H30",
+    "date": "04/11/2024",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/dc/Empoli_FC_%28logo%29.svg",
+    "name1": "Empoli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/580px-Logo_Como_1907_2019.png",
+    "name2": "Como",
+    "champ": "Italie. SérieA",
+    "heure": "17H30",
+    "date": "04/11/2024",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Lazio.svg/1200px-Logo_Lazio.svg.png",
+    "name1": "Lazio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
+    "name2": "Cagliari Calcio",
+    "champ": "Italie. SérieA",
+    "heure": "19H45",
+    "date": "04/11/2024",
     "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Logo_RCD_Espanyol_Barcelona_2005.svg/1200px-Logo_RCD_Espanyol_Barcelona_2005.svg.png",
-    "name2": "Espagnol",
-    "champ": "Espagne. LaLIga",
-    "heure": "15H15",
-    "date": "03/11/2024",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/C.D._Nacional_logo.svg/1200px-C.D._Nacional_logo.svg.png",
+    "name1": "Nacional da Madeira",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/63/CD_Santa_Clara_logo.svg",
+    "name2": "Santa Clara",
+    "champ": "Portugal. Première League",
+    "heure": "20H15",
+    "date": "04/11/2024",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/1682px-Logo_Sevilla_FC.svg.png",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
-    "name2": "Real Sociedad",
-    "champ": "Espagne. LaLIga",
-    "heure": "17H30",
-    "date": "03/11/2024",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
+    "name1": "Dinamo Minsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/0a/HC_Vityaz_Logo.svg/1200px-HC_Vityaz_Logo.svg.png",
+    "name2": "Vityaz",
+    "champ": "Hockey. Ligue Continentale",
+    "heure": "16H30",
+    "date": "04/11/2024",
+    "pro": "Total: (+4.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/45/Al_Ahli_Saudi_FC_logo.svg",
+    "name1": "Al-Ahli Jeddah",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Al-Shorta_Sports_Club_%28Iraq%29_Crest.png/150px-Al-Shorta_Sports_Club_%28Iraq%29_Crest.png",
+    "name2": "Al-Shorta Baghdad",
+    "champ": "AFC Champions League Elite",
+    "heure": "16H00",
+    "date": "04/11/2024",
+    "pro": "V1"
   }
 ]
