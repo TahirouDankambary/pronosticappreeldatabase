@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png",
-    "name1": "Cavaliers de Cleveland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Milwaukee_Bucks_2015.svg/1654px-Milwaukee_Bucks_2015.svg.png",
-    "name2": "Bucks de Milwaukee",
-    "champ": "NBA",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_psv_eindhoven.svg/1200px-Logo_psv_eindhoven.svg.png",
+    "name1": "PSV Eindhoven",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/2048px-Logo_Girona_FC_-_2022.svg.png",
+    "name2": "Gérone",
+    "champ": "UEFA",
+    "heure": "17H45",
     "date": "05/11/2024",
-    "pro": "V1"
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png",
-    "name1": "Wizards de Washington",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
-    "name2": "Golden State",
-    "champ": "NBA",
-    "heure": "00H15",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.png",
+    "name1": "Slovan Bratislava",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQcT2gOuXKyePVijDwPxp1y0qXEZAwhB-Sw&s",
+    "name2": "Dinamo Zagreb",
+    "champ": "UEFA",
+    "heure": "17H45",
     "date": "05/11/2024",
-    "pro": "Total: (+225)"
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png",
-    "name1": "Pistons de Détroit",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/800px-Los_Angeles_Lakers_logo.svg.png",
-    "name2": "Lakers",
-    "champ": "NBA",
-    "heure": "00H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna 1909",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
+    "name2": "AS Monaco",
+    "champ": "UEFA",
+    "heure": "20H00",
     "date": "05/11/2024",
-    "pro": "Total 2: (+117.5)"
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
-    "name1": "Atlanta Hawks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/2048px-Celtics_de_Boston_logo.svg.png",
-    "name2": "Celtics de Boston",
-    "champ": "NBA",
-    "heure": "00H45",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/800px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Borussia Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/SK_Sturm_Graz_logo.svg/1200px-SK_Sturm_Graz_logo.svg.png",
+    "name2": "Sturm Graz",
+    "champ": "UEFA",
+    "heure": "20H00",
     "date": "05/11/2024",
-    "pro": "Total: (+225)"
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1200px-Brooklyn_Nets_newlogo.svg.png",
-    "name1": "Brooklyn Nets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/Grizzlies_de_Memphis_logo.svg/1200px-Grizzlies_de_Memphis_logo.svg.png",
-    "name2": "Grizzlies de Memphis",
-    "champ": "NBA",
-    "heure": "01H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1513px-Logo_FC_Liverpool.svg.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "name2": "Leverkusen",
+    "champ": "UEFA",
+    "heure": "20H00",
     "date": "05/11/2024",
-    "pro": "Total: (-232)"
+    "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/2048px-Miami_Heat_-_Logo.svg.png",
-    "name1": "Heat de Miami",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Kings_de_Sacramento_1994.png/640px-Kings_de_Sacramento_1994.png",
-    "name2": "Kings de Sacramento",
-    "champ": "NBA",
-    "heure": "01H15",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/800px-Lille_OSC_2018_logo.svg.png",
+    "name1": "Lille OSC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbleEApr-WCEn1C4kB80G_478R4P4ZK0WfvA&s",
+    "name2": "Juventus",
+    "champ": "UEFA",
+    "heure": "20H00",
     "date": "05/11/2024",
-    "pro": "Total: (-232)"
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png",
-    "name1": "Bulls de Chicago",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png",
-    "name2": "Jazz de l'Utah",
-    "champ": "NBA",
-    "heure": "01H30",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/800px-Logo_of_AC_Milan.svg.png",
+    "name2": "Milan",
+    "champ": "UEFA",
+    "heure": "20H00",
     "date": "05/11/2024",
-    "pro": "Total: (+221)"
+    "pro": "1X Et TP(2.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/de/Houston_Rockets_logo_2003.png",
-    "name1": "Rockets de Houston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Knicks_New_York_-_2011.svg/800px-Logo_Knicks_New_York_-_2011.svg.png",
-    "name2": "Knicks de New York",
-    "champ": "NBA",
-    "heure": "01h45",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/1200px-Celtic_FC_crest.svg.png",
+    "name1": "Celtic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
+    "name2": "Leipzig",
+    "champ": "UEFA",
+    "heure": "20H00",
     "date": "05/11/2024",
-    "pro": "Total: (-224)"
+    "pro": "2X"
   }
 ]
