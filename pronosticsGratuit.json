@@ -60,23 +60,23 @@
     "pro": "1X Et TP(2.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RkWz9liJJHvzxabnmgzW0JLh59PiI0CTVw&s",
-    "name1": "Athletic Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
-    "name2": "Real Sociedad",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/Logo_USL_Dunkerque.svg/1200px-Logo_USL_Dunkerque.svg.png",
+    "name1": "USL Dunkerque",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1NmtPfVTiO4rtEnl2fOOZqqRdyE9fxSzUw&s",
+    "name2": "AC Ajaccio",
     "champ": "France. Ligue 2",
-    "heure": "20H00",
-    "date": "24/11/2024",
-    "pro": "Total: (+1.5)"
+    "heure": "19H45",
+    "date": "25/11/2024",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/580px-Logo_Como_1907_2019.png",
-    "name1": "Como",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/Logo_ACF_Fiorentina_-_2022.svg/2048px-Logo_ACF_Fiorentina_-_2022.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Italie. Série A",
-    "heure": "14H00",
-    "date": "24/11/2024",
-    "pro": "Total 2: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Puszcza_Niepolomice_Herb_Full.svg/1200px-Puszcza_Niepolomice_Herb_Full.svg.png",
+    "name1": "MKS Puszcza Niepotomice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d1/Widzew_Lodz_%28logo%29.svg",
+    "name2": "Widzew Lodz",
+    "champ": "Championnat de Pologne",
+    "heure": "18H00",
+    "date": "25/11/2024",
+    "pro": "2X"
   }
 ]
