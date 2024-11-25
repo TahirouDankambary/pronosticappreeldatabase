@@ -30,9 +30,9 @@
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ro/0/0a/FC_Atromitos.svg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PAE_Atromitos.svg/800px-PAE_Atromitos.svg.png",
     "name1": "Atromitos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bb/APO_Levadiakos_%28logo%29.svg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/APO_Levadiakos_%28logo%29.svg/800px-APO_Levadiakos_%28logo%29.svg.png",
     "name2": "Levadiakos",
     "champ": "Grèce. Superligue",
     "heure": "16H00",
@@ -42,7 +42,7 @@
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Midtjylland_logo.svg/1200px-FC_Midtjylland_logo.svg.png",
     "name1": "Midtjylland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/ac/Silkeborg_IF_%28logo%29.svg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Silkeborg_IF_%28logo%29.svg/1028px-Silkeborg_IF_%28logo%29.svg.png",
     "name2": "Silkeborg",
     "champ": "Danemark. Superliga",
     "heure": "18H00",
@@ -72,7 +72,7 @@
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Puszcza_Niepolomice_Herb_Full.svg/1200px-Puszcza_Niepolomice_Herb_Full.svg.png",
     "name1": "MKS Puszcza Niepotomice",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d1/Widzew_Lodz_%28logo%29.svg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Widzew_Lodz_%28logo%29.svg/640px-Widzew_Lodz_%28logo%29.svg.png",
     "name2": "Widzew Lodz",
     "champ": "Championnat de Pologne",
     "heure": "18H00",
