@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/AS_Roma_logo_%282013%29.svg/1200px-AS_Roma_logo_%282013%29.svg.png",
-    "name1": "Roma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/800px-AtalantaBC.svg.png",
-    "name2": "Atalanta",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "02/12/2024",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/1200px-Ipswich_Town.svg.png",
+    "name1": "Ipswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/1200px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+    "name2": "Crystal Palace",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H30",
+    "date": "03/12/2024",
+    "pro": "2X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/1200px-Logo_Sevilla_FC.svg.png",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "02/12/2024",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
+    "name1": "Leicester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/640px-West_Ham_United_FC_logo.svg.png",
+    "name2": "West Ham",
+    "champ": "Angleterre. Premier League",
+    "heure": "20H15",
+    "date": "03/12/2024",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/1672px-Akhmat_Grozny_Logo.svg.png",
-    "name1": "Akhmat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Dynamo_Moscow_logo.svg/800px-Dynamo_Moscow_logo.svg.png",
-    "name2": "Dynamo Moscou",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H00",
-    "date": "02/12/2024",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmkQJFHBp5UnbRo-wnE9ibZxDZT1R-0Scgw&s",
+    "name1": "Majorque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/2023px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "Espagne. LaLiga",
+    "heure": "18H00",
+    "date": "03/12/2024",
+    "pro": "Total 2: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/ad/Avtomobilist_Iekaterinbourg.png",
-    "name1": "Avtomobilist Lekaterin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/91/FC_Spartak_Moscow_Logotype.png",
-    "name2": "Spartak Moscou",
-    "champ": "Hockey. Ligue Continentale",
-    "heure": "14H00",
-    "date": "02/12/2024",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Salavat_Yulaev_Ufa_logo.svg/1200px-Salavat_Yulaev_Ufa_logo.svg.png",
-    "name1": "Salavat Ioulaïev",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/78/Traktor_Tcheliabinsk_2020.png",
-    "name2": "Traktor Tcheliabinsk",
-    "champ": "Hockey. Ligue Continentale",
-    "heure": "14H00",
-    "date": "02/12/2024",
-    "pro": "Total: (+4.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/0a/HC_Vityaz_Logo.svg/800px-HC_Vityaz_Logo.svg.png",
-    "name1": "Vityaz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HC_Neftekhimik_Nizhnekamsk_logo.svg/1200px-HC_Neftekhimik_Nizhnekamsk_logo.svg.png",
-    "name2": "Neftekhimik",
-    "champ": "Hockey. Ligue Continentale",
-    "heure": "16H30",
-    "date": "02/12/2024",
-    "pro": "Total: (+4.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/44/Persepolis_FC_Logo_2017.png",
-    "name1": "Persepolis",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBigRmUIHeKqUTlgp5mhxsgN7mneBfS0srg&s",
-    "name2": "Al-Shorta Baghdad",
-    "champ": "AFC Championnat League Elite",
-    "heure": "14H00",
-    "date": "02/12/2024",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
-    "name1": "Al-Ahli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/he/8/8e/Esteghlal_FC_logo.png",
-    "name2": "Esteghlal",
-    "champ": "AFC Championnat League Elite",
-    "heure": "16H00",
-    "date": "02/12/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arminia_Bielefeld_Logo_2021%E2%80%93.svg/1200px-Arminia_Bielefeld_Logo_2021%E2%80%93.svg.png",
+    "name1": "Arminia Bielefeld",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/640px-SC_Freiburg_%28logo%29.svg.png",
+    "name2": "Fribourg",
+    "champ": "Coupe d'Allemagne",
+    "heure": "17H00",
+    "date": "03/12/2024",
     "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jahn_Regensburg_logo2014.svg/640px-Jahn_Regensburg_logo2014.svg.png",
+    "name1": "Jahn Regensburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/800px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "Coupe d'Allemagne",
+    "heure": "17H00",
+    "date": "03/12/2024",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern Munich",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5M08d2KsKbeouRHIHXcNzQfpwakz2Uk4DPw&s",
+    "name2": "Leverkusen",
+    "champ": "Coupe d'Allemagne",
+    "heure": "19H45",
+    "date": "03/12/2024",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Werder_Bremen_2024.svg/1200px-Logo_Werder_Bremen_2024.svg.png",
+    "name1": "Werder Bremen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+    "name2": "Darmstadt",
+    "champ": "Coupe d'Allemagne",
+    "heure": "19H45",
+    "date": "03/12/2024",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/361px-Logo_of_AC_Milan.svg.png",
+    "name1": "Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/sco/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/1200px-US_Sassuolo_Calcio_logo.svg.png",
+    "name2": "Sassuolo Calcio",
+    "champ": "Coupe d'Italie",
+    "heure": "20H00",
+    "date": "03/12/2024",
+    "pro": "V1"
   }
 ]
