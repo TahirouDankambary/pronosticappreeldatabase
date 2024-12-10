@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
-    "name2": "Wolverhampton",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "09/12/2024",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQcT2gOuXKyePVijDwPxp1y0qXEZAwhB-Sw&s",
+    "name1": "Dinamo Zagreb",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/1200px-Celtic_fc.svg.png",
+    "name2": "Celtic",
+    "champ": "UEFA",
+    "heure": "17H45",
+    "date": "10/12/2024",
+    "pro": "Total: (+2.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1200px-Getafe_logo.svg.png",
-    "name1": "Getafe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
-    "name2": "Espagnol",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "09/12/2024",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/2048px-Logo_Girona_FC_-_2022.svg.png",
+    "name1": "Gérone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1513px-Logo_FC_Liverpool.svg.png",
+    "name2": "Liverpool",
+    "champ": "UEFA",
+    "heure": "17H45",
+    "date": "10/12/2024",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1458px-A.C._Monza_logo_%282019%29.svg.png",
-    "name1": "Monza",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/1200px-Logo_Udinese_Calcio_2010.svg.png",
-    "name2": "Udinese Calcio",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "09/12/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
+    "name2": "Real Madrid",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "10/12/2024",
+    "pro": "2X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1200px-Flag_of_Yemen.svg.png",
-    "name1": "Yemen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/800px-Flag_of_Kuwait.svg.png",
-    "name2": "Koweït",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "15H00",
-    "date": "09/12/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "name1": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "10/12/2024",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
+    "name1": "Club Bruges",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFQYMa5zTQkZh_OATf0m7JLvgjc2IsRQEFQ&s",
+    "name2": "Sporting",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "10/12/2024",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
+    "name1": "Leipzig",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/1200px-Aston_Villa_FC_new_crest.svg.png",
+    "name2": "Aston Villa",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "10/12/2024",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg/1200px-Logo_Stade_Brestois.svg.png",
+    "name1": "Stade Brestois",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
+    "name2": "PSV Eindhoven",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "10/12/2024",
     "pro": "V2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65yeD47U6a-EZntGA3B5IQCEDBwKCMAWLKQ&s",
-    "name1": "Estrela da Amadora",
-    "photo2": "https://upload.wikimedia.org/wikipedia/lt/thumb/6/61/FC_Arouca_logo.png/390px-FC_Arouca_logo.png",
-    "name2": "Arouca",
-    "champ": "Portugal. Première Ligue",
-    "heure": "20H15",
-    "date": "09/12/2024",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Gazi%C5%9Fehir_Gaziantep_%28logo%29.svg/1200px-Gazi%C5%9Fehir_Gaziantep_%28logo%29.svg.png",
-    "name1": "Gazisehir Gaziantep",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Caykur_Rizespor_logo.svg/1200px-Caykur_Rizespor_logo.svg.png",
-    "name2": "Çaykur Rizespor",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "09/12/2024",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Northampton_Town_FC-2012.svg/langfr-130px-Northampton_Town_FC-2012.svg.png",
-    "name1": "Northampton Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_Peterborough_United_2008.svg/1200px-Logo_Peterborough_United_2008.svg.png",
-    "name2": "Peterborough",
-    "champ": "Angleterre. Ligue 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/FC_Shakhtar_Donetsk_%28logo%29.svg/1297px-FC_Shakhtar_Donetsk_%28logo%29.svg.png",
+    "name1": "Chakhtar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo2E4d45j7XYK8FwtlIIXpnO5M34wEvZakQ&s",
+    "name2": "Bayern Munich",
+    "champ": "UEFA",
     "heure": "20H00",
-    "date": "09/12/2024",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/F%C3%BAtbol_Club_Cartagena_%28logo%29.svg/1200px-F%C3%BAtbol_Club_Cartagena_%28logo%29.svg.png",
-    "name1": "Cartagena",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Real_Sporting_de_Gijon.svg/640px-Real_Sporting_de_Gijon.svg.png",
-    "name2": "Sporting de Gijon",
-    "champ": "Espagne. D2",
-    "heure": "19H30",
-    "date": "09/12/2024",
-    "pro": "12"
+    "date": "10/12/2024",
+    "pro": "Total 2: (+1.5)"
   }
 ]
