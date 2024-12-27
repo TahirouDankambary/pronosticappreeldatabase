@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
-    "name1": "Bournemouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name2": "Crystal Palace",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "name1": "Brighton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
+    "name2": "Brentford",
     "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "26/12/2024",
-    "pro": "12"
+    "heure": "19H30",
+    "date": "27/12/2024",
+    "pro": "V1 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/800px-Nottingham_Forest_F.C._logo.svg.png",
-    "name1": "Nottingham Forest",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
-    "name2": "Tottenham",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/1200px-Ipswich_Town.svg.png",
+    "name2": "Ipswich",
     "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "26/12/2024",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Newcastle_United.svg/1200px-Logo_Newcastle_United.svg.png",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
-    "name2": "Aston Villa",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "26/12/2024",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/640px-West_Ham_United_FC_logo.svg.png",
-    "name2": "West Ham",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "26/12/2024",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/1200px-Fulham_FC_%28shield%29.svg.png",
-    "name2": "Fulham",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "26/12/2024",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/1/1d/Wolverhampton_wanderers.svg/1200px-Wolverhampton_wanderers.svg.png",
-    "name1": "Wolverhampton",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMdCAEBSFbrXCm5vEUVdMcXn34hZswKLCFw&s",
-    "name2": "Man United",
-    "champ": "Angleterre. Premier League",
-    "heure": "17H30",
-    "date": "26/12/2024",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name2": "Leicester",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "26/12/2024",
+    "heure": "20H15",
+    "date": "27/12/2024",
     "pro": "V1 Et TP(2.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/0a/Avtomobilist_Yekaterinburg_Logo.png",
-    "name1": "Avtomobilist Lekaterin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/78/Traktor_Tcheliabinsk_2020.png",
-    "name2": "Traktor Tcheliabinsk",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1280px-Flag_of_Kuwait.svg.png",
+    "name1": "Koweït",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/2560px-Flag_of_Qatar.svg.png",
+    "name2": "Qatar",
+    "champ": "Coupe du Golfe des nations",
+    "heure": "14H30",
+    "date": "27/12/2024",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/2560px-Flag_of_the_United_Arab_Emirates.svg.png",
+    "name1": "Émirats arabes unis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/800px-Flag_of_Oman.svg.png",
+    "name2": "Oman",
+    "champ": "Coupe du Golfe des nations",
+    "heure": "14H30",
+    "date": "27/12/2024",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
+    "name1": "Sotchi",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP0-uSK2gegbqbFkL0YH_jbeOGZINEUTTBjA&s",
+    "name2": "SKA Saint-Pétersbourg",
     "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "26/12/2024",
-    "pro": "2X"
+    "heure": "13H30",
+    "date": "27/12/2024",
+    "pro": "Total: (+5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/0a/HC_Vityaz_Logo.svg/800px-HC_Vityaz_Logo.svg.png",
+    "name1": "Vityaz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
+    "name2": "Lokomotiv",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H00",
+    "date": "27/12/2024",
+    "pro": "Total: (+4)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
+    "name1": "Dinamo Minsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/49/OHK_Dinamo.png",
+    "name2": "Dynamo Moscou",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H10",
+    "date": "27/12/2024",
+    "pro": "Total: (+4.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f0/HC_Kunlun_Red_Star_logo.png",
+    "name1": "Kunlun Red Star",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Spartak_Moskau_Logo_1949-1997.png",
+    "name2": "Spartak Moscou",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H30",
+    "date": "27/12/2024",
+    "pro": "Total: (+5)"
   }
 ]
