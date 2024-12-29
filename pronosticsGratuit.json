@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/1661px-Logo_Parma.svg.png",
-    "name1": "Parma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
-    "name2": "Monza",
-    "champ": "Italie. Série A",
-    "heure": "14H00",
-    "date": "28/12/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
+    "name1": "Leicester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name2": "Man City",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H30",
+    "date": "29/12/2024",
+    "pro": "V2 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
-    "name1": "Empoli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name2": "Genoa",
-    "champ": "Italie. Série A",
-    "heure": "14H00",
-    "date": "28/12/2024",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/1e/Logo_Crystal_Palace_FC_-_2022.svg",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png",
+    "name2": "Southampton",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "29/12/2024",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
-    "name1": "Cagliari",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
-    "champ": "Italie. Série A",
-    "heure": "17H00",
-    "date": "28/12/2024",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
+    "name2": "Wolverhampton",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "29/12/2024",
+    "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/be/SS_Lazio_logo.png",
-    "name1": "Lazio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1200px-Logo_Atalanta_Bergamo.svg.png",
-    "name2": "Atalanta",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/800px-Logo_Fulham.svg.png",
+    "name1": "Fulham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
+    "name2": "Bournemouth",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "29/12/2024",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLeh-CelZw81q84aFBU6u5XReYYjWyUN0LA&s",
+    "name1": "Everton",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCek3QjaBtS-yq8xnduEAnegL-DXzsMVt7-g&s",
+    "name2": "Nottingham",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "29/12/2024",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/1845px-West_Ham_United_FC_logo.svg.png",
+    "name1": "West Ham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+    "name2": "Liverpool",
+    "champ": "Angleterre. Premier League",
+    "heure": "17H15",
+    "date": "29/12/2024",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYH_vR7azQimMDmhJOMk3dTt7mqz3GN3w1w&s",
+    "name1": "Naples",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Venezia_FC_logo.png/1200px-Venezia_FC_logo.png",
+    "name2": "Venise",
     "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "28/12/2024",
-    "pro": "2X Et TP(1.5) - OUI"
+    "heure": "14H00",
+    "date": "29/12/2024",
+    "pro": "Total 1: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/CD_Aves_%28logo%29.svg/1200px-CD_Aves_%28logo%29.svg.png",
-    "name1": "Aves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/S%C3%ADmbolo_Estrela_da_Amadora.svg/586px-S%C3%ADmbolo_Estrela_da_Amadora.svg.png",
-    "name2": "Estrela da Amadora",
-    "champ": "Portugal. Première Ligue",
-    "heure": "15H30",
-    "date": "28/12/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-150px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Italie. Série A",
+    "heure": "17H00",
+    "date": "29/12/2024",
     "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/GD_Estoril-Praia.png/640px-GD_Estoril-Praia.png",
-    "name1": "Estoril",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Moreirense_Futebol_Clube_%28logo%29.svg/2560px-Moreirense_Futebol_Clube_%28logo%29.svg.png",
-    "name2": "Moreirense",
-    "champ": "Portugal. Première Ligue",
-    "heure": "18H00",
-    "date": "28/12/2024",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/6/62/20130808222843%21Fcporto-2.png",
-    "name1": "Porto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Boavista_F.C._%28logo%29.svg/1200px-Boavista_F.C._%28logo%29.svg.png",
-    "name2": "Boavista Porto",
-    "champ": "Portugal. Première Ligue",
-    "heure": "20H30",
-    "date": "28/12/2024",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Florida_Panthers_2016_logo.svg/1200px-Florida_Panthers_2016_logo.svg.png",
-    "name1": "Florida Panthers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/2560px-Montreal_Canadiens.svg.png",
-    "name2": "Canadiens de Montréal",
-    "champ": "Hockey. LNH",
-    "heure": "18H00",
-    "date": "28/12/2024",
-    "pro": "Total: (+5.5)"
   }
 ]
