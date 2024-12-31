@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
-    "name1": "Aston Villa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
-    "name2": "Brighton",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H45",
-    "date": "30/12/2024",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/1200px-Washington_Capitals.svg.png",
+    "name1": "Washigton Capittals",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Bruins_Boston.svg/1200px-Logo_Bruins_Boston.svg.png",
+    "name2": "Bruins de Boston",
+    "champ": "Hockey. LNH",
+    "heure": "17H30",
+    "date": "31/12/2024",
+    "pro": "Total: (+5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Ipswich_Town_2024.svg/1200px-Logo_Ipswich_Town_2024.svg.png",
-    "name1": "Ipswich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H45",
-    "date": "30/12/2024",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Toronto_Maple_Leafs_2016_logo.svg/1200px-Toronto_Maple_Leafs_2016_logo.svg.png",
+    "name1": "Maple Leafs de Toronto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_des_Islanders_de_New_York_2017.png/640px-Logo_des_Islanders_de_New_York_2017.png",
+    "name2": "Islanders de New York",
+    "champ": "Hockey. LNH",
+    "heure": "18H00",
+    "date": "31/12/2024",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
-    "name2": "Newcastle",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/55/Logo_des_Golden_Knights_de_Vegas.png",
+    "name1": "Golden Knights de Vegas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/langfr-220px-Montreal_Canadiens.svg.png",
+    "name2": "Canadiens de Montréal",
+    "champ": "Hockey. LNH",
     "heure": "20H00",
-    "date": "30/12/2024",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "31/12/2024",
+    "pro": "V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/743px-Logo_Como_1907_2019.png",
-    "name1": "Como",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
-    "name2": "Lecce",
-    "champ": "Italie. Série A",
-    "heure": "17H30",
-    "date": "30/12/2024",
-    "pro": "Total 2: (+0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/800px-Flag_of_Oman.svg.png",
+    "name1": "Oman",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/800px-Flag_of_Saudi_Arabia.svg.png",
+    "name2": "Arabie Saoudite",
+    "champ": "Coupe du Golfe des Nations",
+    "heure": "14H30",
+    "date": "31/12/2024",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
-    "name2": "Hellas Verona",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "30/12/2024",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1200px-Flag_of_Bahrain.svg.png",
+    "name1": "Bahreïn",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1280px-Flag_of_Kuwait.svg.png",
+    "name2": "Koweït",
+    "champ": "Coupe du Golfe des Nations",
+    "heure": "17H45",
+    "date": "31/12/2024",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
-    "name1": "Famalicão",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/CD_Santa_Clara_logo.svg/1200px-CD_Santa_Clara_logo.svg.png",
-    "name2": "Santa Clara",
-    "champ": "Portugal. Première Ligue",
-    "heure": "20H15",
-    "date": "30/12/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_Of_Kazakhstan.svg/1200px-Flag_Of_Kazakhstan.svg.png",
+    "name1": "Kazakhstan U20",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/langfr-225px-Flag_of_Switzerland_%28Pantone%29.svg.png",
+    "name2": "Suisse U20",
+    "champ": "Hockey. Championnat du Monde U20",
+    "heure": "17H00",
+    "date": "31/12/2024",
+    "pro": "Total: (+6.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/295px-Flag_of_Finland.svg.png",
+    "name1": "Finlande U20",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1200px-Flag_of_Latvia.svg.png",
+    "name2": "Lettonie U20",
+    "champ": "Hockey. Championnat du Monde U20",
+    "heure": "19H30",
+    "date": "31/12/2024",
+    "pro": "Total: (+5.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/Morton_Greenock_FC.svg/langfr-130px-Morton_Greenock_FC.svg.png",
+    "name1": "Greenock Morton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Partick_Thistle_FC_logo.svg/1200px-Partick_Thistle_FC_logo.svg.png",
+    "name2": "Partick Thistle",
+    "champ": "Fotball. Écosse Championship",
+    "heure": "15H00",
+    "date": "31/12/2024",
     "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1200px-Ak_Bars_Kazan_logo.svg.png",
-    "name1": "Ak Bars Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/7b/Severstal_Tcherepovets.png",
-    "name2": "Severstal",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "30/12/2024",
-    "pro": "Total: (+4.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HC_Neftekhimik_Nizhnekamsk_logo.svg/1200px-HC_Neftekhimik_Nizhnekamsk_logo.svg.png",
-    "name1": "Neftekhimik",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/78/Traktor_Tcheliabinsk_2020.png",
-    "name2": "Traktor Tcheliabinsk",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "30/12/2024",
-    "pro": "Total: (+4)"
   }
 ]
