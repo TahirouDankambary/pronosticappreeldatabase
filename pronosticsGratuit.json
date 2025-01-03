@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
-    "name1": "Inter Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1200px-Logo_Atalanta_Bergamo.svg.png",
-    "name2": "Atalanta",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1306px-Logo_of_AC_Milan.svg.png",
+    "name2": "Milan",
     "champ": "Italie. Super Coupe",
     "heure": "19H00",
-    "date": "02/01/2025",
-    "pro": "Total: (+2.5)"
+    "date": "03/01/2025",
+    "pro": "Nul dans une mi-temps: OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/FC_Aberdeen.svg/1200px-FC_Aberdeen.svg.png",
-    "name1": "Aberdeen FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/sco/5/57/Ross_County_F.C._logo.png",
-    "name2": "Ross County",
-    "champ": "Écosse. Première Ligue",
-    "heure": "15H00",
-    "date": "02/01/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name2": "Real Madrid",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "03/01/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/KilmarnockLogo.svg/1200px-KilmarnockLogo.svg.png",
-    "name1": "Kilmarnock",
-    "photo2": "https://upload.wikimedia.org/wikipedia/sco/thumb/3/32/St_Mirren_FC_logo.svg/1200px-St_Mirren_FC_logo.svg.png",
-    "name2": "Saint Mirren",
-    "champ": "Écosse. Première Ligue",
-    "heure": "15H00",
-    "date": "02/01/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
-    "name1": "Rangers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/1200px-Celtic_FC_crest.svg.png",
-    "name2": "Celtic",
-    "champ": "Écosse. Première Ligue",
-    "heure": "15H00",
-    "date": "02/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/StJohnstoneFC_Logo.svg/1200px-StJohnstoneFC_Logo.svg.png",
-    "name1": "St.Johnstone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/sco/thumb/3/37/Hibernian_FC_logo.svg/1200px-Hibernian_FC_logo.svg.png",
-    "name2": "Hibernian",
-    "champ": "Écosse. Première Ligue",
-    "heure": "15H00",
-    "date": "02/01/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
-    "name1": "Heart of Midlothian",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Motherwell_FC_crest.svg/2048px-Motherwell_FC_crest.svg.png",
-    "name2": "Motherwell FC",
-    "champ": "Écosse. Première Ligue",
-    "heure": "15H00",
-    "date": "02/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1200px-Logo_OGC_Nice_2013.svg.png",
+    "name1": "Nice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/82/Logo_Stade_Rennais_FC_2003.svg/1200px-Logo_Stade_Rennais_FC_2003.svg.png",
+    "name2": "Stade Rennais",
+    "champ": "France. Ligue 1",
+    "heure": "20H00",
+    "date": "03/01/2025",
     "pro": "Total: (+2)"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/C.D._Nacional_logo.svg/1200px-C.D._Nacional_logo.svg.png",
+    "name1": "Nacional de Madeira",
+    "photo2": "https://upload.wikimedia.org/wikipedia/sco/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
+    "name2": "Porto",
+    "champ": "Portugal. Première Ligue",
+    "heure": "18H00",
+    "date": "03/01/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dundee_FC_logo.png/640px-Dundee_FC_logo.png",
-    "name1": "Dundee",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDvMhmDhcKSGaF4z_MaPqgsaJ1CleQR2kQw&s",
-    "name2": "Dundee United",
-    "champ": "Écosse. Première Ligue",
-    "heure": "17H30",
-    "date": "02/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/73/VitoriaSC-1924.png",
+    "name1": "Vitoria Guimaraes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYh2XIJ78HmjlYelzpCTyV7Lm9UWSIhYobw&s",
+    "name2": "Sporting",
+    "champ": "Portugal. Première Ligue",
+    "heure": "20H15",
+    "date": "03/01/2025",
+    "pro": "Total 2: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Alanyaspor_logo.svg/1200px-Alanyaspor_logo.svg.png",
+    "name1": "Alanyaspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Konyaspor_%28logo%29.svg/1200px-Konyaspor_%28logo%29.svg.png",
+    "name2": "Konyaspor",
+    "champ": "Turquie. Süper Lig",
+    "heure": "17H00",
+    "date": "03/01/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Caykur_Rizespor_logo.svg/1200px-Caykur_Rizespor_logo.svg.png",
+    "name1": "Çaykur Rizespor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Besiktas_Jimnastik_Kulubu_logo.svg/1200px-Besiktas_Jimnastik_Kulubu_logo.svg.png",
+    "name2": "Besiktas",
+    "champ": "Turquie. Süper Lig",
+    "heure": "17H00",
+    "date": "03/01/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/FC_Gillingham_Logo.svg/1200px-FC_Gillingham_Logo.svg.png",
-    "name1": "Gillingham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_Bromley_FC.svg/2048px-Logo_Bromley_FC.svg.png",
-    "name2": "Bromley",
-    "champ": "Angleterre. Ligue 2",
-    "heure": "19H45",
-    "date": "02/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f0/Airdrieoniansnewlogo.png",
+    "name1": "Airdrieonians",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Falkirk_FC_logo.svg/1200px-Falkirk_FC_logo.svg.png",
+    "name2": "Falkirk",
+    "champ": "Écosse. Championship",
+    "heure": "19H30",
+    "date": "03/01/2025",
+    "pro": "V2"
   }
 ]
