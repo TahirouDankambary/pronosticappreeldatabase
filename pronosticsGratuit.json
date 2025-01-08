@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
-    "name2": "Newcastle",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+    "name2": "Liverpool",
+    "champ": "Angleterre. Coupe de la Ligue",
     "heure": "20H00",
-    "date": "07/01/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "08/01/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/CD_Eldense_2023.svg/1200px-CD_Eldense_2023.svg.png",
-    "name1": "Eldense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
-    "name2": "Valencia",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "20H00",
-    "date": "07/01/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RkWz9liJJHvzxabnmgzW0JLh59PiI0CTVw&s",
+    "name1": "Athletic Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "Espagne. Super Coupe",
+    "heure": "19H00",
+    "date": "08/01/2025",
+    "pro": "Total 2: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
-    "name1": "Sint-Truidense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/KRC_Genk_Logo_2016.svg/1200px-KRC_Genk_Logo_2016.svg.png",
-    "name2": "Genk",
-    "champ": "Coupe de Belgique",
-    "heure": "19H45",
-    "date": "07/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Asteras_Tripolis_FC_logo.svg/2048px-Asteras_Tripolis_FC_logo.svg.png",
+    "name1": "Asteras Tripolis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/70/Panionios_FC.png",
+    "name2": "Panionios",
+    "champ": "Coupe de Grèce",
+    "heure": "16H00",
+    "date": "08/01/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
-    "name1": "Sporting",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
-    "name2": "Porto",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ro/0/0a/FC_Atromitos.svg",
+    "name2": "Atromitos",
+    "champ": "Coupe de Grèce",
+    "heure": "18H30",
+    "date": "08/01/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/1200px-S.C._Braga_logo.svg.png",
+    "name2": "Braga",
     "champ": "Portugal. Coupe de la Ligue",
     "heure": "19H45",
-    "date": "07/01/2025",
-    "pro": "Total: (+2.5)"
+    "date": "08/01/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Sivasspor_-_Logo.svg/1200px-Sivasspor_-_Logo.svg.png",
-    "name1": "Sivasspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Besiktas_Jimnastik_Kulubu_logo.svg/1200px-Besiktas_Jimnastik_Kulubu_logo.svg.png",
-    "name2": "Besiktas",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name1": "Royal Antwerp",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png",
+    "name2": "Royale Union",
+    "champ": "Coupe de Belgique",
+    "heure": "19H45",
+    "date": "08/01/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/TrabzonsporLogo.svg/1200px-TrabzonsporLogo.svg.png",
+    "name1": "Trabzonspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Alanyaspor_%28logo%29.svg/1200px-Alanyaspor_%28logo%29.svg.png",
+    "name2": "Alanyaspor",
     "champ": "Coupe de Turquie",
-    "heure": "16H00",
-    "date": "07/01/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "heure": "15H00",
+    "date": "08/01/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/be/Antalyaspor_%28logo%29.svg/1200px-Antalyaspor_%28logo%29.svg.png",
-    "name1": "Antalyaspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Kocaelispor.svg/1200px-Kocaelispor.svg.png",
-    "name2": "Kocaelispor",
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/4/4c/Galatasaray_Logo_%282007-2015%29.png/176px-Galatasaray_Logo_%282007-2015%29.png",
+    "name1": "Galatasaray",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacTVPskYRZZ3M9Oinq_9DfJ19uvU04_0Jsw&s",
+    "name2": "Istanbul",
     "champ": "Coupe de Turquie",
-    "heure": "18H00",
-    "date": "07/01/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f0/HC_Kunlun_Red_Star_logo.png",
-    "name1": "Kunlun Red Star",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/03/Amur_Khabarovsk_Logo.png",
-    "name2": "Amour Khabarovsk",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "07/01/2025",
-    "pro": "Total: (+4)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
-    "name1": "Lokomotiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/0a/HC_Vityaz_Logo.svg/800px-HC_Vityaz_Logo.svg.png",
-    "name2": "Vityaz",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "07/01/2025",
+    "heure": "17H30",
+    "date": "08/01/2025",
     "pro": "V1"
   }
 ]
