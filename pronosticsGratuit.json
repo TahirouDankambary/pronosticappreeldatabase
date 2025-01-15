@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
-    "name1": "Brentford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-    "name2": "Man City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/1200px-Logo_Leicester_City_2021.svg.png",
+    "name1": "Leicester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/Logo_Crystal_Palace_FC_-_2022.svg",
+    "name2": "Crystal Palace",
     "champ": "Angleterre. Premier League",
     "heure": "19H30",
-    "date": "14/01/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "date": "15/01/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/1845px-West_Ham_United_FC_logo.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/1200px-Fulham_FC_%28shield%29.svg.png",
-    "name2": "Fulham",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdJEs7iEaBd1q8zLUvGt23Jgwdm-FL3uydA&s",
+    "name2": "Wolverhampton",
     "champ": "Angleterre. Premier League",
     "heure": "19H30",
-    "date": "14/01/2025",
+    "date": "15/01/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
+    "name1": "Everton",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
+    "name2": "Aston Villa",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H30",
+    "date": "15/01/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
+    "champ": "Angleterre. Premier League",
+    "heure": "20H00",
+    "date": "15/01/2025",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Logo_VfL_Bochum_2024.svg/1200px-Logo_VfL_Bochum_2024.svg.png",
+    "name1": "Bochum",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/1200px-FC_St._Pauli_logo_%282018%29.svg.png",
+    "name2": "St.Pauli",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "17H30",
+    "date": "15/01/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
-    "name2": "Bournemouth",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern Munich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
+    "name2": "Hoffenheim",
+    "champ": "Allemagne. Bundesliga",
     "heure": "19H30",
-    "date": "14/01/2025",
-    "pro": "1X Et TP(2.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/962px-Logo_Nottingham_Forest_FC.svg.png",
-    "name1": "Nottingham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "14/01/2025",
-    "pro": "V2"
+    "date": "15/01/2025",
+    "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/01/Official_shield_of_Ourense_CF.png",
-    "name1": "Ourense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1200px-Logo_Valencia_CF_2019.svg.png",
-    "name2": "Valencia",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "20H00",
-    "date": "14/01/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Werder_Bremen_2024.svg/1200px-Logo_Werder_Bremen_2024.svg.png",
+    "name1": "Werder Bremen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EYX9TxOB36x8OgJY9LcpOM0tz6YO2-hXOg&s",
+    "name2": "Heidenheim",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "15/01/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://i0.wp.com/whatsbehindthebadge.com/wp-content/uploads/2020/03/Leyt1.png?resize=376%2C401",
-    "name1": "Leyton Orient",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
-    "name2": "Derby County",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H45",
-    "date": "14/01/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Mansfield_Town_FC.svg/1200px-Mansfield_Town_FC.svg.png",
-    "name1": "Mansfield Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/1200px-Logo_Wigan_Athletic.svg.png",
-    "name2": "Wigan Athletic",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H45",
-    "date": "14/01/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiJGvgfq2fF_128W0P2rD3Rj_6z20ZZL0zA&s",
+    "name1": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
+    "name2": "Augsbourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "15/01/2025",
     "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
-    "name1": "Preston North End",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/1200px-Charlton_Athletic.svg.png",
-    "name2": "Charlton Athletic",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H45",
-    "date": "14/01/2025",
-    "pro": "Total: (+1.5)"
   }
 ]
