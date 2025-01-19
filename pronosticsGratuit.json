@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
-    "name1": "Brentford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
-    "name2": "Liverpool",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
+    "name1": "Man United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "name2": "Brighton",
     "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "18/01/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "heure": "14H00",
+    "date": "19/01/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/1845px-West_Ham_United_FC_logo.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name2": "Crystal Palace",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "name1": "Nottingham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png",
+    "name2": "Southampton",
     "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "18/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name1": "Leicester",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/1200px-Fulham_FC_%28shield%29.svg.png",
-    "name2": "Fulham",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "18/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
-    "name2": "Aston Villa",
-    "champ": "Angleterre. Premier League",
-    "heure": "17H30",
-    "date": "18/01/2025",
+    "heure": "14H00",
+    "date": "19/01/2025",
     "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern Munich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/640px-Logo_VfL_Wolfsburg_2024.svg.png",
-    "name2": "Wolfsbourg",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLeh-CelZw81q84aFBU6u5XReYYjWyUN0LA&s",
+    "name1": "Everton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "19/01/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/1200px-Ipswich_Town.svg.png",
+    "name1": "Ipswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name2": "Man City",
+    "champ": "Angleterre. Premier League",
+    "heure": "16H30",
+    "date": "19/01/2025",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiJGvgfq2fF_128W0P2rD3Rj_6z20ZZL0zA&s",
+    "name1": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+    "name2": "Mayence",
     "champ": "Allemagne. Bundesliga",
     "heure": "14H30",
-    "date": "18/01/2025",
+    "date": "19/01/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Werder_Bremen_2024.svg/1200px-Logo_Werder_Bremen_2024.svg.png",
+    "name1": "Werder Bremen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
+    "name2": "Augsbourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "16H30",
+    "date": "19/01/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/640px-Logo_Real_Madrid.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/1200px-UD_Las_Palmas_logo.svg.png",
+    "name2": "Las Palmas",
+    "champ": "Espagne. LaLiga",
+    "heure": "15H15",
+    "date": "19/01/2025",
     "pro": "V1 Et TP(2.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Logo_VfL_Bochum_2024.svg/1200px-Logo_VfL_Bochum_2024.svg.png",
-    "name1": "Bochum",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
-    "name2": "Leipzig",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "18/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1200px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
-    "name1": "Heidenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/1200px-FC_St._Pauli_logo_%282018%29.svg.png",
-    "name2": "St.Pauli",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "18/01/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/1200px-Holstein_Kiel_Logo.svg.png",
-    "name1": "Holstein Kiel",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_TSG_Hoffenheim.png",
-    "name2": "Hoffenheim",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "18/01/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
+    "name1": "Osasuna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
+    "name2": "Rayo Vallecano",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H30",
+    "date": "19/01/2025",
+    "pro": "12"
   }
 ]
