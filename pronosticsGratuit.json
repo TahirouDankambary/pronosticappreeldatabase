@@ -12,7 +12,7 @@
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnWCjuFekCyxGKeu84ED50vgRcSVVeRnb-A&s",
     "name1": "Bournemouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/500px-Logo_Tottenham_Hotspur.svg.png",
     "name2": "Tottenham",
     "champ": "Angleterre. Premier League",
     "heure": "19H30",
@@ -72,7 +72,7 @@
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rYJKDnNu13Jynkz3DgfH4JETxBqkACh-6Q&s",
     "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1184px-Logo_Manchester_United_FC.svg.png",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLcC5-msf47rH6vhdq8ClgWlTroGFQCSpWQ&s",
     "name2": "Man United",
     "champ": "Angleterre. Premier League",
     "heure": "20H15",
