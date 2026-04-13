@@ -1,62 +1,62 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MQWl0bBEdJd76258UHEpRI9JkOQWaCRS2A&s",
-    "name1": "Chelsea",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQkSmtD2BTCZe3A133iv7xUALlqcU6lg76A&s",
-    "name2": "Man City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/langfr-250px-Logo_Manchester_United_FC.svg.png",
+    "name1": "Man United",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjZK-5dsCukugOieXNGKzjpDEJf3d90721A&s",
+    "name2": "Leeds United",
     "champ": "Angleterre. Premier League",
-    "heure": "15H30",
-    "date": "12/04/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "heure": "19H00",
+    "date": "13/04/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1280px-Logo_1._FSV_Mayence_05_2024.svg.png",
-    "name1": "Mayence",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/960px-SC_Freiburg_%28logo%29.svg.png",
-    "name2": "Fribourg",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "17H30",
-    "date": "12/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Levante_UD.svg/1280px-Logo_Levante_UD.svg.png",
+    "name1": "Levante",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Getafe_CF_2011.svg/1280px-Logo_Getafe_CF_2011.svg.png",
+    "name2": "Getafe",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H00",
+    "date": "13/04/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1280px-Logo_Celta_de_Vigo_2025.svg.png",
-    "name1": "Celta de Vigo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp19TLTmOwL26HmKWuYiFhzWErmdgGsnLKAA&s",
-    "name2": "Real Oviedo",
-    "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "12/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_Como_1907_2019.png",
-    "name1": "Como",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name1": "Fiorentina",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLb0oaU6S5o94UD83nt_NwE6OhTvLoMwQmmw&s",
+    "name2": "Lazio",
     "champ": "Italie. Série A",
     "heure": "18H45",
-    "date": "12/04/2026",
+    "date": "13/04/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Caykur_Rizespor_%28logo%29.svg/1280px-Caykur_Rizespor_%28logo%29.svg.png",
+    "name1": "Caykur Rizespor",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCwlWum3UnHKl94FODXjK5lHMFrayNljX0w&s",
+    "name2": "Gaziantep",
+    "champ": "Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "13/04/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ey%C3%BCpspor_Logosu.png/500px-Ey%C3%BCpspor_Logosu.png",
+    "name1": "Eyupspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
+    "name2": "Samsunspor",
+    "champ": "Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "13/04/2026",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1280px-Logo_OGC_Nice_2013.svg.png",
-    "name1": "Nice",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Havre_AC_2012.svg/1280px-Logo_Havre_AC_2012.svg.png",
-    "name2": "Le Havre",
-    "champ": "France. Ligue 1",
-    "heure": "15H15",
-    "date": "12/04/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/langfr-250px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1280px-US_Lecce_2023.svg.png",
-    "name2": "Lecce",
-    "champ": "Italie. Série A",
-    "heure": "16H00",
-    "date": "12/04/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMIsl7Pp-loL2n3etQT5yjLy9CwV-x5CZfQ&s",
+    "name1": "Al-Ahli Jeddah",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Logo_Al-Duhail_SC_2016.svg/1280px-Logo_Al-Duhail_SC_2016.svg.png",
+    "name2": "Al-Duhail",
+    "champ": "AFC Champions League Elite",
+    "heure": "14H45",
+    "date": "13/04/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
