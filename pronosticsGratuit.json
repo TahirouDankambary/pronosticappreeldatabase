@@ -3,7 +3,7 @@
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VBmd145L5AzkQGoG7GAfDGsiTaHZ9wh3Cg&s",
     "name1": "Levante UD",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjzlGtWs6_uEprlgqQsfBtfXdygJtZBc2LwQ&s",
-    "name2": "SÃ©ville",
+    "name2": "SÃÂ©ville",
     "champ": "Espagne. LaLiga",
     "heure": "17H00",
     "date": "23/04/2026",
@@ -34,7 +34,7 @@
     "name1": "Akhmat",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1280px-FC_Baltika_Kaliningrad_Logo.svg.png",
     "name2": "Baltika Kaliningrad",
-    "champ": "Russie. PremiÃ¨re Ligue",
+    "champ": "Russie. PremiÃÂ¨re Ligue",
     "heure": "16H45",
     "date": "23/04/2026",
     "pro": "Total: (+1.5)"
@@ -44,7 +44,7 @@
     "name1": "Spartak Moscou",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
     "name2": "Krasnodar",
-    "champ": "Russie. PremiÃ¨re Ligue",
+    "champ": "Russie. PremiÃÂ¨re Ligue",
     "heure": "16H45",
     "date": "23/04/2026",
     "pro": "Total: (+2)"
@@ -61,13 +61,13 @@
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/1/13/Real_betis_logo.svg",
-    "name1": "Real Betis Balompié",
+    "name1": "Real Betis BalompiÃ©",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Real_Madrid_CF.svg/120px-Real_Madrid_CF.svg.png",
     "name2": "Real Madrid",
     "champ": "",
     "heure": "19H00",
     "date": "24/04/2026",
-    "pro": "Temps réglementaire, 2, Résultat + Total: 2X Et TP (1.5) - Oui"
+    "pro": "Temps rÃ©glementaire, 2, RÃ©sultat + Total: 2X Et TP (1.5) - Oui"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/7/77/Logo_Sunderland.svg",
@@ -77,7 +77,7 @@
     "champ": "",
     "heure": "19H00",
     "date": "24/04/2026",
-    "pro": "Temps réglementaire, Total: (1.5) Plus de"
+    "pro": "Temps rÃ©glementaire, Total: (1.5) Plus de"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Neapel.svg",
@@ -87,6 +87,36 @@
     "champ": "",
     "heure": "18H45",
     "date": "24/04/2026",
-    "pro": "Temps réglementaire, 1, Résultat + Total: V1 Et TP (1.5) - Oui"
+    "pro": "Temps rÃ©glementaire, 1, RÃ©sultat + Total: V1 Et TP (1.5) - Oui"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/26/Stade_Brestois_29_logo.svg",
+    "name1": "Stade Brestois 29",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8d/RC_Lens_logo.svg",
+    "name2": "RC Lens",
+    "champ": "",
+    "heure": "18H45",
+    "date": "24/04/2026",
+    "pro": "Temps réglementaire, Total: (2) Plus de"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b2/AZ_Alkmaar_logo.svg",
+    "name1": "Alkmaar Zaanstreek II",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/97/Roda_JC_Kerkrade_logo.svg",
+    "name2": "Roda JC Kerkrade",
+    "champ": "",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "Temps réglementaire, Deux équipes vont marquer: Oui"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9d/SC_Cambuur_logo.svg",
+    "name1": "Cambuur",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f4/SBV_Vitesse_logo.svg",
+    "name2": "Vitesse",
+    "champ": "",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "Temps réglementaire, Double chance: 1X"
   }
 ]
