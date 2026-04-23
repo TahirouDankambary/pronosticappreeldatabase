@@ -1,123 +1,62 @@
 [
-
   {
-
     "photo1": "https://upload.wikimedia.org/wikipedia/en/1/13/Real_betis_logo.svg",
-
-    "name1": "Real Betis BalompiÃ©",
-
+    "name1": "Real Betis Balompié",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Real_Madrid_CF.svg/120px-Real_Madrid_CF.svg.png",
-
     "name2": "Real Madrid",
-
     "champ": "Espagne. LaLiga",
-
     "heure": "19H00",
-
     "date": "24/04/2026",
-
     "pro": "2X Et TP (1.5) - Oui"
-
   },
-
   {
-
     "photo1": "https://upload.wikimedia.org/wikipedia/en/7/77/Logo_Sunderland.svg",
-
     "name1": "Sunderland",
-
     "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg",
-
     "name2": "Nottingham Forest",
-
     "champ": "Angleterre. Premier League",
-
     "heure": "19H00",
-
     "date": "24/04/2026",
-
     "pro": "Total: (+1.5)"
-
   },
-
   {
-
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Neapel.svg",
-
     "name1": "SSC Naples",
-
     "photo2": "https://upload.wikimedia.org/wikipedia/en/1/1a/US_Cremonese_logo.svg",
-
     "name2": "Cremonese",
-
     "champ": "Italie. Série A",
-
     "heure": "18H45",
-
     "date": "24/04/2026",
-
     "pro": "V1 Et TP (1.5) - Oui"
-
   },
-
   {
-
     "photo1": "https://upload.wikimedia.org/wikipedia/en/2/26/Stade_Brestois_29_logo.svg",
-
     "name1": "Stade Brestois 29",
-
     "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8d/RC_Lens_logo.svg",
-
     "name2": "RC Lens",
-
     "champ": "France. Ligue 1",
-
     "heure": "18H45",
-
     "date": "24/04/2026",
-
     "pro": "Total: (+2)"
-
   },
-
   {
-
     "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b2/AZ_Alkmaar_logo.svg",
-
     "name1": "Alkmaar Zaanstreek II",
-
     "photo2": "https://upload.wikimedia.org/wikipedia/en/9/97/Roda_JC_Kerkrade_logo.svg",
-
     "name2": "Roda JC Kerkrade",
-
     "champ": "Pays-Bas. Eerste Divisie",
-
     "heure": "18H00",
-
     "date": "24/04/2026",
-
     "pro": "Deux équipes vont marquer: Oui"
-
   },
-
   {
-
     "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9d/SC_Cambuur_logo.svg",
-
     "name1": "Cambuur",
-
     "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f4/SBV_Vitesse_logo.svg",
-
     "name2": "Vitesse",
-
     "champ": "Pays-Bas. Eerste Divisie",
-
     "heure": "18H00",
-
     "date": "24/04/2026",
-
     "pro": "1X"
-
   }
-
 ]
