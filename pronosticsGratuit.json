@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1280px-Logo_Celta_de_Vigo_2025.svg.png",
-    "name1": "Celta de Vigo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Levante_UD.svg/1280px-Logo_Levante_UD.svg.png",
-    "name2": "Levante UD",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H00",
-    "date": "12/05/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1280px-Logo_SS_Lazio.svg.png",
+    "name1": "Lazio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
+    "champ": "Coupe d'Italie",
+    "heure": "19H00",
+    "date": "13/05/2026",
+    "pro": "Total: (+2)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png",
-    "name1": "Real Betis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Elche_CF_2021.svg/1280px-Logo_Elche_CF_2021.svg.png",
-    "name2": "Elche",
-    "champ": "Espagne. LaLiga",
-    "heure": "18H00",
-    "date": "12/05/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1280px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name2": "Crystal Palace",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H00",
+    "date": "13/05/2026",
+    "pro": "1X Et TP(2.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
-    "name1": "Osasuna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/960px-Atletico_Madrid_Logo_2024.svg.png",
-    "name2": "Atl.Madrid",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxn3FNeB8AMFnFQUBrRRGZbB1YpAsVPsdchA&s",
+    "name1": "Villarreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1280px-Logo_S%C3%A9ville_FC.svg.png",
+    "name2": "Séville",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H00",
+    "date": "13/05/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
+    "name1": "Espanyol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1920px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name2": "Athletic Bilbao",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H00",
+    "date": "13/05/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name1": "Deportivo Alavés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/langfr-250px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
     "champ": "Espagne. LaLiga",
     "heure": "19H30",
-    "date": "12/05/2026",
-    "pro": "Total: (+2)"
+    "date": "13/05/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZz5kKviLWndRrGIQ_kxe5BvOLMecLzvBeQ&s",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Middlesbrough.svg/1280px-Logo_Middlesbrough.svg.png",
-    "name2": "Middlesbrough",
-    "champ": "Angleterre. Championship",
-    "heure": "19H00",
-    "date": "12/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1280px-Logo_SB29_2010.svg.png",
+    "name1": "Stade Brestois",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/langfr-250px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png",
+    "name2": "Strasbourg",
+    "champ": "France. Ligue 1",
+    "heure": "17H00",
+    "date": "13/05/2026",
     "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122010/aberdin_shotlandiya_old_logo5.png?itok=o4Hm5ag3",
-    "name1": "Aberdeen FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_St._Mirren_FC_2023.svg/1280px-Logo_St._Mirren_FC_2023.svg.png",
-    "name2": "Saint Mirren",
-    "champ": "Écosse. Première Ligue",
-    "heure": "18H45",
-    "date": "12/05/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://i.pinimg.com/474x/b8/86/69/b88669e063bbdda1dcf62eae49a04ac8.jpg",
-    "name1": "Dundee United",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWHsxyK5bKBrhS8OgrRknUzNJju4tSXfXdWw&s",
-    "name2": "Livingston FC",
-    "champ": "Écosse. Première Ligue",
-    "heure": "18H45",
-    "date": "12/05/2026",
-    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
