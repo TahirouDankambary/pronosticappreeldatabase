@@ -1,72 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Logo_Burnley_FC_2023.svg/1280px-Logo_Burnley_FC_2023.svg.png",
-    "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1280px-Wolverhampton_Wanderers.svg.png",
-    "name2": "Wolverhampton",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "24/05/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LceQkQY1K-YVqKfiTT5mHDe_6_gymPpvtQ&s",
+    "name1": "Notts County",
+    "photo2": "https://upload.wikimedia.org/wikipedia/lt/thumb/6/67/Salford_City_FC_emblema.png/250px-Salford_City_FC_emblema.png",
+    "name2": "Salford City",
+    "champ": "Angleterre. Ligue 2",
+    "heure": "14H00",
+    "date": "25/05/2026",
+    "pro": "2X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1280px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/langfr-250px-Logo_Manchester_United_FC.svg.png",
-    "name2": "Man United",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "24/05/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_SC_Paderborn_07.svg/1280px-Logo_SC_Paderborn_07.svg.png",
+    "name1": "Paderborn 07",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06cq3adi6d8UkMBtIA2WYIaGi031mN_-fHw&s",
+    "name2": "Wolfsbourg",
+    "champ": "Allemagne. Qualification",
+    "heure": "18H30",
+    "date": "25/05/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/250px-Leeds_United_F.C._logo.svg.png",
-    "name2": "Leeds United",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUJ8HUB6SO_9z3h9X-0rU7sd2KtXOW25wqw&s",
+    "name1": "Rapid Vienne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SV_Ried.svg/1920px-SV_Ried.svg.png",
+    "name2": "SV Ried",
+    "champ": "Autriche. Bundesliga",
     "heure": "15H00",
-    "date": "24/05/2026",
+    "date": "25/05/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://e7.pngegg.com/pngimages/346/519/png-clipart-liverpool-football-club-logo-liverpool-f-c-reserves-and-academy-anfield-english-football-league-uefa-champions-league-liverpool-logo-food-text-thumbnail.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1280px-Logo_Brentford_FC_-_2017.svg.png",
-    "name2": "Brentford",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_WSG_Tirol.svg/1280px-Logo_WSG_Tirol.svg.png",
+    "name1": "WSG Tirol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/64/Wacker_Innsbruck.png",
+    "name2": "Wacker Innsbruck",
+    "champ": "Austria. Tirol Cup",
     "heure": "15H00",
-    "date": "24/05/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "25/05/2026",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
-    "name2": "Aston Villa",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://static.fan.at/images/dba595e4-cb1c-43ea-b95f-88441a80e0ff_640x640.png",
+    "name1": "SPC Helfort",
+    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022016/sv_schwechat.gif?itok=MraYs9Fs",
+    "name2": "Schwechat",
+    "champ": "Autriche. Landesliga",
     "heure": "15H00",
-    "date": "24/05/2026",
-    "pro": "1X Et TP(2.5) - OUI"
+    "date": "25/05/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/960px-Nottingham_Forest_F.C._logo.svg.png",
-    "name1": "Forest",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/960px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
-    "name2": "Bournemouth",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSKXFZAWKDJW6__pDWekXyQ7Lr-Y5x7_Mvw&s",
+    "name1": "KFUM-Kameratene",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1280px-Rosenborg_Trondheim_logo.svg.png",
+    "name2": "Rosenborg",
+    "champ": "Norvège. Eliteserien",
     "heure": "15H00",
-    "date": "24/05/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLLKVVmVpm_9umxifHHxCWfz7TF0OOADtMMw&s",
-    "name1": "Sunderland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1280px-Logo_Chelsea.svg.png",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "24/05/2026",
-    "pro": "Total: (+2)"
+    "date": "25/05/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
