@@ -1,43 +1,43 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/AS_Saint-Etienne-logo_2022.svg/1280px-AS_Saint-Etienne-logo_2022.svg.png",
-    "name1": "AS Saint-Etienne",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzCVkBZrbAILEWp4FO--4TXthwA-ZERalZw&s",
-    "name2": "Nice",
-    "champ": "France. Qualification",
-    "heure": "18H45",
-    "date": "26/05/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP1jcHh-Qy8hSif__yR789-sSZerMb0lKynQ&s",
+    "name1": "Crystal Palace",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmp0QEYtwrZ1OlgR0UDVALCSkouk_ErbAJIQ&s",
+    "name2": "Rayo Vallecano",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "19H00",
+    "date": "27/05/2026",
     "pro": "Total: (+1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BK_Olympic_logo.svg/1280px-BK_Olympic_logo.svg.png",
-    "name1": "BK Olympic",
-    "photo2": "https://tmssl.akamaized.net//images/wappen/big/75203.png?lm=1766357897",
-    "name2": "AFC Malmo",
-    "champ": "Coupe de Suède",
-    "heure": "16H00",
-    "date": "26/05/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/VVSB_Noordwijkerhout.svg/960px-VVSB_Noordwijkerhout.svg.png",
+    "name1": "VVSB",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1RMjuZSlvMfxrbBH3htAjfAlHYQ7Undqzzw&s",
+    "name2": "Excelsior Maassluis",
+    "champ": "Pays-Bas. Qualification",
+    "heure": "18H00",
+    "date": "27/05/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnK-cWKCxNlZ-rVL47TUkzJiQH4FOx3GnSUg&s",
-    "name1": "Orebro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Helsingborgs_IF_%28logo%29.svg/1280px-Helsingborgs_IF_%28logo%29.svg.png",
-    "name2": "Helsingborg",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "26/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/FC_Rijnvogels.png",
+    "name1": "Rijnvogels",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/88/DVS_%2733_logo.png",
+    "name2": "SVS 33 Ermelo",
+    "champ": "Pays-Bas. Qualification",
+    "heure": "18H00",
+    "date": "27/05/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/1280px-FC_Banik_Ostrava_%28logo%29.svg.png",
-    "name1": "Banik Ostrava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/FC_Silon_T%C3%A1borsko_logo.svg/1280px-FC_Silon_T%C3%A1borsko_logo.svg.png",
-    "name2": "Silon Taborsko",
-    "champ": "République Tchèque. Qualification",
-    "heure": "16H00",
-    "date": "26/05/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Sparta_Nijkerk.png",
+    "name1": "Sparta Nijkerk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Logo_IJsselmeervogels.svg/1280px-Logo_IJsselmeervogels.svg.png",
+    "name2": "Ijsselmeervogels",
+    "champ": "Pays-Bas. Qualification",
+    "heure": "18H00",
+    "date": "27/05/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   },
     {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b2/SK_Artis_Brno%2C_Czech_football_club%2C_2025_logo.png",
@@ -46,17 +46,17 @@
     "name2": "1.Slovacko",
     "champ": "République Tchèque. Qualification",
     "heure": "16H00",
-    "date": "26/05/2026",
+    "date": "27/05/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/3/3b/Vfb_Hohenems_logo.png",
-    "name1": "VFB Hohenems",
-    "photo2": "https://www.austria-salzburg.at/wp-content/uploads/2024/09/fc-lauterach-logo.png",
-    "name2": "Lauterach",
-    "champ": "Autriche. Regionalliga",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu71DCd6wBYCuCXyz-7JxyrPEvzWXAGgF6Dw&s",
+    "name1": "Grohn",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e9/TuS_Komet_Arsten.png",
+    "name2": "Tus Komet Arsten",
+    "champ": "Allemagne. Landesliga",
     "heure": "17H00",
-    "date": "26/05/2026",
-    "pro": "V1"
+    "date": "27/05/2026",
+    "pro": "1X"
   }
 ]
