@@ -48,5 +48,15 @@
     "heure": "17H00",
     "date": "15/06/2026",
     "pro": "2X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsykAsfrM6Uhc9Jee7MssrDp5l7p4IP7owfeHQ0wDmVw&s",
+    "name1": "IFK Norrkoping",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Varbergs_BoIS_logo.svg/250px-Varbergs_BoIS_logo.svg.png",
+    "name2": "Varbergs Bols",
+    "champ": "Suède. Superettan",
+    "heure": "17H05",
+    "date": "15/06/2026",
+    "pro": "Total: (+2)"
   }
 ]
