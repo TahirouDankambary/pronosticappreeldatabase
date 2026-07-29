@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Lincoln_Red_Imps_%28logo%29.svg/1280px-Lincoln_Red_Imps_%28logo%29.svg.png",
-    "name1": "Lincoln Red Imps",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTpra8Goq-IkopQCAIuv9ORsQyOYejVrTMYzJ4NrYyvg&s",
-    "name2": "Mjallby AIF",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/960px-Logo_%C5%BDalgiris_Kaunas.svg.png",
+    "name1": "Zalgiris Kaunas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/KI_Klaksvik.png/250px-KI_Klaksvik.png",
+    "name2": "Ki Klaksvik",
     "champ": "Ligue des Champions de l'UEFA",
     "heure": "16H00",
-    "date": "28/07/2026",
-    "pro": "Total: (+2)"
+    "date": "29/07/2026",
+    "pro": "Qualification Equipe 1"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1280px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
-    "name1": "Dinamo Zagreb",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FC_Thun_Logo_2011.svg/1920px-FC_Thun_Logo_2011.svg.png",
-    "name2": "Thun",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09e0JJp81v6wDXmPjHbuu9Q3Aw1-8C2Jm83a7g0qf8Q&s",
+    "name1": "Lech Poznan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png",
+    "name2": "AGF Aarhus",
     "champ": "Ligue des Champions de l'UEFA",
-    "heure": "18H00",
-    "date": "28/07/2026",
+    "heure": "17H00",
+    "date": "29/07/2026",
     "pro": "1X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NK_Celje_logo.png",
-    "name1": "Celje",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Egnatia_Club_Logo.svg/1920px-Egnatia_Club_Logo.svg.png",
-    "name2": "Egnatia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_Universitatea_Craiova.svg/langfr-250px-Logo_Universitatea_Craiova.svg.png",
+    "name1": "CS Universitatea Craiova",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fb/PFC_Levski_Sofia.png",
+    "name2": "Levski Sofia",
     "champ": "Ligue des Champions de l'UEFA",
-    "heure": "18H15",
-    "date": "28/07/2026",
-    "pro": "Total: (+2.5)"
+    "heure": "17H30",
+    "date": "29/07/2026",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/f/f9/Heart_of_Midlothian_FC_logo.png",
-    "name1": "Heart of Midlothian",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
-    "name2": "Sturm Graz",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c0/Hapoel_Beer_Sheva_FC.png",
+    "name1": "Hapoel Beer Sheva",
+    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112016/vikingyur_reykyavik_islandiya_old_logo3.jpg?itok=QGN5-brl",
+    "name2": "Vikingur Reykjavik",
     "champ": "Ligue des Champions de l'UEFA",
-    "heure": "18H45",
-    "date": "28/07/2026",
-    "pro": "Total: (+2.5)"
+    "heure": "17H30",
+    "date": "29/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Shamrock_Rovers_FC_2023.svg/960px-Logo_Shamrock_Rovers_FC_2023.svg.png",
-    "name1": "Shamrock Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ararat-Armenia.png",
-    "name2": "Arrata-Armenie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Gornik_Zabrze.svg/500px-Logo_Gornik_Zabrze.svg.png",
+    "name1": "Gornik Zabrze",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/8/86/Fenerbah%C3%A7e_SK.png",
+    "name2": "Fenerbahce",
     "champ": "Ligue des Champions de l'UEFA",
-    "heure": "19H00",
-    "date": "28/07/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "heure": "18H00",
+    "date": "29/07/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Apollon_Limassol_FC_logo.svg/3840px-Apollon_Limassol_FC_logo.svg.png",
-    "name1": "Apollon Limassol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/52/FC_Dila_Gori_%28Logo%29.png",
-    "name2": "Dila Gori",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "17H00",
-    "date": "28/07/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/uk/e/e5/FK_Crvena_Zvezda_Logo.png?_=20220909004127",
+    "name1": "Crvena Zvezda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Larne_FC_%28logo%29.svg/1280px-Larne_FC_%28logo%29.svg.png",
+    "name2": "Larne",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "18H00",
+    "date": "29/07/2026",
+    "pro": "1X Et TP(2.5) - OUI"
   }
 ]
