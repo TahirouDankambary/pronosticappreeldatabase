@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqOXUR6zQwxaAUx1ER168vTYj-w0JXR1AydMBhLeLJA&s=10",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMynqzP1jsJUbOyoTu66mjlXw8c1u5OZcEJRNwn-xuw&s=10",
-    "name2": "Sheriff Tiraspol",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "16H00",
-    "date": "30/07/2026",
-    "pro": "V1"
-  },
-     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YulRB0lBWM-vaQgq-5BM68fXKA9NuKd-8aDqeLyzgg&s=10",
-    "name1": "Hradec Kralove",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCivxYlVd00SuBoqqWGX4lXhvjvLUH5fj4PPaW8rzYA&s=10",
-    "name2": "Tromso",
-    "champ": "Ligue Europa de l'UEFA",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZyJpMV73yLonjtB6rFJobU7_IplVY00SsuNFnN5J1g&s=10",
+    "name1": "Rodina Moscow",
+    "photo2": "https://assets.football-logos.cc/logos/russia/1500x1500/rostov.e1757b5d.png",
+    "name2": "Rostov",
+    "champ": "Russie. Première Ligue",
     "heure": "17H00",
-    "date": "30/07/2026",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9KRcNYar6h7PJQRNP_VzLr4XoCWR3nmv4D-6w0JPSWA&s=10",
-    "name1": "Midtjylland",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ2HDcymOJgKuQVMXPg9qu4KOBRuf4U1YW2pLmeHomiw&s=10",
-    "name2": "Besiktas",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "30/07/2026",
+    "date": "31/07/2026",
     "pro": "12"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5wqtLFlW1RFpujoXhmgqUJVCmTW-qdzztXsMWaw5rw&s=10",
-    "name1": "Pafos",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWoiU-YwVRb9CenpkAG9YCM6zytNbWNG0_h5ZbyFN3xA&s=10",
-    "name2": "Hajduk Split",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "30/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHLyKZ3w8Krl1LQH2u0dKUi2vqRj7vidxdzgQ7TvkFfg&s=10",
-    "name1": "PAOK",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQC2xDSx2g4N2RC0ac2ydNZVlcChA4fUnOhSkekA7w7w&s=10",
-    "name2": "Dynamo Kyiv",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H45",
-    "date": "30/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyO1dOzBo8UgWvhvKyccodVGP-AB__0ARpHNmufl36Q&s=10",
-    "name1": "Anderlecht",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsBkJukbcL6QRoUs1AeNN0rNF0k0h7TfPCRSoC2N0Zcg&s=10",
-    "name2": "Hammarby",
-    "champ": "Ligue Europa de l'UEFA",
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1920px-Logo_Club_Brugge_KV_2024.svg.png",
+    "name1": "Club Bruges",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVohOGQ43P5NSoqTxyMpjmwo3Y5PIPJvZY1a-pzGWNGA&s=10",
+    "name2": "Royale Union Saint-Gilloise",
+    "champ": "Super Coupe de Belgique",
     "heure": "18H30",
-    "date": "30/07/2026",
-    "pro": "1X"
+    "date": "31/07/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCirFxVT4rjJjMulKCBUsl0eFE705nhEjqDwzLSZ5A_A&s=10",
+    "name1": "LASK Linz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Grazer_AK_2019.svg/1280px-Logo_Grazer_AK_2019.svg.png",
+    "name2": "Grazer AK",
+    "champ": "Autriche. Bundesliga",
+    "heure": "17H30",
+    "date": "31/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7LhUal8inyDWjOTB4da27OvdWBgbbNh6rHk72u0GHYQ&s",
+    "name1": "Valerenga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Logo_HamKam_2021.svg/1280px-Logo_HamKam_2021.svg.png",
+    "name2": "HamKam",
+    "champ": "Norvège. Eliteserien",
+    "heure": "17H00",
+    "date": "31/07/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/3840px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name1": "Bodo GLimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lillestr%C3%B8m_SK.png",
+    "name2": "Lillestrom",
+    "champ": "Norvège. Eliteserien",
+    "heure": "19H00",
+    "date": "31/07/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Wisla_Plock_logo.svg/1280px-Wisla_Plock_logo.svg.png",
+    "name1": "Wisla Plock",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Widzew_Lodz_%28logo%29.svg/250px-Widzew_Lodz_%28logo%29.svg.png",
+    "name2": "Widzew Lodz",
+    "champ": "Championnat de Pologne",
+    "heure": "16H00",
+    "date": "31/07/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
