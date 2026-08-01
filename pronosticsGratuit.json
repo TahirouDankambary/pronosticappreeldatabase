@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZyJpMV73yLonjtB6rFJobU7_IplVY00SsuNFnN5J1g&s=10",
-    "name1": "Rodina Moscow",
-    "photo2": "https://assets.football-logos.cc/logos/russia/1500x1500/rostov.e1757b5d.png",
-    "name2": "Rostov",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYuXCAeITfLoGRbdcgZ4nwRjqu6N3olex_69knjUeQA&s=10",
+    "name1": "Dynamo Makhackala",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1280px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
+    "name2": "Lokomotiv Moscou",
     "champ": "Russie. Première Ligue",
-    "heure": "17H00",
-    "date": "31/07/2026",
-    "pro": "12"
+    "heure": "15H30",
+    "date": "01/08/2026",
+    "pro": "Total: (+1.5)"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1920px-Logo_Club_Brugge_KV_2024.svg.png",
-    "name1": "Club Bruges",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVohOGQ43P5NSoqTxyMpjmwo3Y5PIPJvZY1a-pzGWNGA&s=10",
-    "name2": "Royale Union Saint-Gilloise",
-    "champ": "Super Coupe de Belgique",
-    "heure": "18H30",
-    "date": "31/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1280px-FC_Baltika_Kaliningrad_Logo.svg.png",
+    "name1": "Baltika Kaliningrad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/f/fd/Dynamo_Moscow_logo.png",
+    "name2": "Dynamo Moscow",
+    "champ": "Russie. Première Ligue",
+    "heure": "17H45",
+    "date": "01/08/2026",
+    "pro": "2X"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCirFxVT4rjJjMulKCBUsl0eFE705nhEjqDwzLSZ5A_A&s=10",
-    "name1": "LASK Linz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Grazer_AK_2019.svg/1280px-Logo_Grazer_AK_2019.svg.png",
-    "name2": "Grazer AK",
-    "champ": "Autriche. Bundesliga",
-    "heure": "17H30",
-    "date": "31/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7LhUal8inyDWjOTB4da27OvdWBgbbNh6rHk72u0GHYQ&s",
-    "name1": "Valerenga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Logo_HamKam_2021.svg/1280px-Logo_HamKam_2021.svg.png",
-    "name2": "HamKam",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H00",
-    "date": "31/07/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/3840px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name1": "Bodo GLimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lillestr%C3%B8m_SK.png",
-    "name2": "Lillestrom",
-    "champ": "Norvège. Eliteserien",
-    "heure": "19H00",
-    "date": "31/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCNmUWqiHY-_3YX211dj6ZG6FpFDw8lNQ2BrBbOaOYA&s=10",
+    "name1": "Porto",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnCGXKzbN6BVWzUE7v0pVNnsYJYKz2OALfSfXZSLlLg&s",
+    "name2": "SCU Torreense",
+    "champ": "Portugal. Super Coupe",
+    "heure": "19H15",
+    "date": "01/08/2026",
     "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Wisla_Plock_logo.svg/1280px-Wisla_Plock_logo.svg.png",
-    "name1": "Wisla Plock",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Widzew_Lodz_%28logo%29.svg/250px-Widzew_Lodz_%28logo%29.svg.png",
-    "name2": "Widzew Lodz",
-    "champ": "Championnat de Pologne",
-    "heure": "16H00",
-    "date": "31/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_WSG_Tirol.svg/960px-Logo_WSG_Tirol.svg.png",
+    "name1": "WSG Tirol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
+    "name2": "Sturm Graz",
+    "champ": "Autriche. Bundesliga",
+    "heure": "15H00",
+    "date": "01/08/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_FC_Red_Bull_Salzburg_2026.svg/3840px-Logo_FC_Red_Bull_Salzburg_2026.svg.png",
+    "name1": "Red Bull Salzburg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWeT1Uv_b8OiLgSK43_yze9C9Ns4weN0h8MbTEt4mOA&s=10",
+    "name2": "Hartberg",
+    "champ": "Autriche. Bundesliga",
+    "heure": "17H30",
+    "date": "01/08/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/langfr-250px-FC_Banik_Ostrava_%28logo%29.svg.png",
+    "name1": "Banik Ostrava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/90/Slavia-symbol-nowordmark-RGB.png",
+    "name2": "Slavia Prague",
+    "champ": "Tchéquie. Première Ligue",
+    "heure": "15H00",
+    "date": "01/08/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   }
 ]
