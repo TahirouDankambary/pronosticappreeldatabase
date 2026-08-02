@@ -1,62 +1,92 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYuXCAeITfLoGRbdcgZ4nwRjqu6N3olex_69knjUeQA&s=10",
-    "name1": "Dynamo Makhackala",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1280px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
-    "name2": "Lokomotiv Moscou",
-    "champ": "Russie. Première Ligue",
-    "heure": "15H30",
-    "date": "01/08/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://e7.pngegg.com/pngimages/346/519/png-clipart-liverpool-football-club-logo-liverpool-f-c-reserves-and-academy-anfield-english-football-league-uefa-champions-league-liverpool-logo-food-text-thumbnail.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leeds_United_FC.svg/1920px-Logo_Leeds_United_FC.svg.png",
+    "name2": "Leeds United",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "20H00",
+    "date": "02/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1280px-FC_Baltika_Kaliningrad_Logo.svg.png",
-    "name1": "Baltika Kaliningrad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/f/fd/Dynamo_Moscow_logo.png",
-    "name2": "Dynamo Moscow",
-    "champ": "Russie. Première Ligue",
-    "heure": "17H45",
-    "date": "01/08/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Galatasaray_Sports_Club_Logo.svg/1920px-Galatasaray_Sports_Club_Logo.svg.png",
+    "name1": "Galatasaray",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_Stade_Rennais_FC.svg/1280px-Logo_Stade_Rennais_FC.svg.png",
+    "name2": "Stade Rennais",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H00",
+    "date": "02/08/2026",
+    "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCNmUWqiHY-_3YX211dj6ZG6FpFDw8lNQ2BrBbOaOYA&s=10",
-    "name1": "Porto",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnCGXKzbN6BVWzUE7v0pVNnsYJYKz2OALfSfXZSLlLg&s",
-    "name2": "SCU Torreense",
-    "champ": "Portugal. Super Coupe",
-    "heure": "19H15",
-    "date": "01/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Logo_Ascoli_Calcio_FC_1898.svg/1280px-Logo_Ascoli_Calcio_FC_1898.svg.png",
+    "name1": "Ascoli Calcio 1898",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/be/SS_Lazio_logo.png/1280px-SS_Lazio_logo.png",
+    "name2": "Lazio",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H45",
+    "date": "02/08/2026",
+    "pro": "2X Et TP(2.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_WSG_Tirol.svg/960px-Logo_WSG_Tirol.svg.png",
-    "name1": "WSG Tirol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
-    "name2": "Sturm Graz",
-    "champ": "Autriche. Bundesliga",
-    "heure": "15H00",
-    "date": "01/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1280px-Logo_PSV_Eindhoven_2024.svg.png",
+    "name1": "PSV Eindhoven",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPvfRSasUcr9YKFcyk_Md9fRNVeyWa5ypCRdWle6rfA&s=10",
+    "name2": "AZ Alkmaar",
+    "champ": "Supercoupe des Pays-Bas",
+    "heure": "16H00",
+    "date": "02/08/2026",
+    "pro": "Equipe 1 gagnera la coupe"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/1280px-FC_Krasnodar_2016_Logo.svg.png",
+    "name1": "Krasnodar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1280px-Fakel_Voronezh_logo.svg.png",
+    "name2": "Fakel Voronej",
+    "champ": "Russie. Première Ligue",
+    "heure": "15H15",
+    "date": "02/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/langfr-250px-Akhmat_Grozny_Logo.svg.png",
+    "name1": "Akhmat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/Logo_Spartak_Moscou_2013.svg/1280px-Logo_Spartak_Moscou_2013.svg.png",
+    "name2": "Spartak Moscou",
+    "champ": "Russie. Première Ligue",
+    "heure": "17H30",
+    "date": "02/08/2026",
     "pro": "Total: (+2)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_FC_Red_Bull_Salzburg_2026.svg/3840px-Logo_FC_Red_Bull_Salzburg_2026.svg.png",
-    "name1": "Red Bull Salzburg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWeT1Uv_b8OiLgSK43_yze9C9Ns4weN0h8MbTEt4mOA&s=10",
-    "name2": "Hartberg",
-    "champ": "Autriche. Bundesliga",
-    "heure": "17H30",
-    "date": "01/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/langfr-250px-FC_Banik_Ostrava_%28logo%29.svg.png",
-    "name1": "Banik Ostrava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/90/Slavia-symbol-nowordmark-RGB.png",
-    "name2": "Slavia Prague",
-    "champ": "Tchéquie. Première Ligue",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1280px-Molde_Fotball_Logo.svg.png",
+    "name1": "Molde",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IODQoyS_ETkzaAk3lzQSa_qz_85JcvblvuMpHzAgRQ&s=10",
+    "name2": "Sarpsborg 08",
+    "champ": "Norvège. Eliteserien",
     "heure": "15H00",
-    "date": "01/08/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "date": "02/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/1280px-Brann_logo.svg.png",
+    "name1": "Brann",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NZ95ODJ5Cnfc9PJqLZ62bpWCNYBj0zn4XwlEh-Vi4A&s=10",
+    "name2": "Rosenborg",
+    "champ": "Norvège. Eliteserien",
+    "heure": "17H15",
+    "date": "02/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bc/FK_Pardubice.png",
+    "name1": "Pardubice",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwjQ6FdKxEuyamxkUNmaJXSJpXSWSY8A_pR82Rf8N5w&s=10",
+    "name2": "Jablonec",
+    "champ": "Tchèque. Première Ligue",
+    "heure": "18H00",
+    "date": "02/08/2026",
+    "pro": "12"
   }
 ]
