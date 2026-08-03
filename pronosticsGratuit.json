@@ -1,92 +1,62 @@
 [
   {
-    "photo1": "https://e7.pngegg.com/pngimages/346/519/png-clipart-liverpool-football-club-logo-liverpool-f-c-reserves-and-academy-anfield-english-football-league-uefa-champions-league-liverpool-logo-food-text-thumbnail.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leeds_United_FC.svg/1920px-Logo_Leeds_United_FC.svg.png",
-    "name2": "Leeds United",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/83/Al-hilal_logo.png",
+    "name1": "Al Hilal Riyadh",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Al-Ahli_Doha_%28logo%29.svg/1280px-Al-Ahli_Doha_%28logo%29.svg.png",
+    "name2": "Al Ahli Doha",
     "champ": "Matchs amicaux des clubs",
-    "heure": "20H00",
-    "date": "02/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Galatasaray_Sports_Club_Logo.svg/1920px-Galatasaray_Sports_Club_Logo.svg.png",
-    "name1": "Galatasaray",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_Stade_Rennais_FC.svg/1280px-Logo_Stade_Rennais_FC.svg.png",
-    "name2": "Stade Rennais",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "18H00",
-    "date": "02/08/2026",
+    "heure": "15H00",
+    "date": "03/08/2026",
     "pro": "Total: (+2.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Logo_Ascoli_Calcio_FC_1898.svg/1280px-Logo_Ascoli_Calcio_FC_1898.svg.png",
-    "name1": "Ascoli Calcio 1898",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/be/SS_Lazio_logo.png/1280px-SS_Lazio_logo.png",
-    "name2": "Lazio",
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/2e/Logo_Al_Shabab_FC_Riyad.png",
+    "name1": "Al Shabab Riyadh",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_MC_Alger_1921.png",
+    "name2": "MC Alger",
     "champ": "Matchs amicaux des clubs",
-    "heure": "18H45",
-    "date": "02/08/2026",
-    "pro": "2X Et TP(2.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1280px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name1": "PSV Eindhoven",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPvfRSasUcr9YKFcyk_Md9fRNVeyWa5ypCRdWle6rfA&s=10",
-    "name2": "AZ Alkmaar",
-    "champ": "Supercoupe des Pays-Bas",
-    "heure": "16H00",
-    "date": "02/08/2026",
-    "pro": "Equipe 1 gagnera la coupe"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/1280px-FC_Krasnodar_2016_Logo.svg.png",
-    "name1": "Krasnodar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1280px-Fakel_Voronezh_logo.svg.png",
-    "name2": "Fakel Voronej",
-    "champ": "Russie. Première Ligue",
-    "heure": "15H15",
-    "date": "02/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/langfr-250px-Akhmat_Grozny_Logo.svg.png",
-    "name1": "Akhmat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/Logo_Spartak_Moscou_2013.svg/1280px-Logo_Spartak_Moscou_2013.svg.png",
-    "name2": "Spartak Moscou",
-    "champ": "Russie. Première Ligue",
-    "heure": "17H30",
-    "date": "02/08/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1280px-Molde_Fotball_Logo.svg.png",
-    "name1": "Molde",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IODQoyS_ETkzaAk3lzQSa_qz_85JcvblvuMpHzAgRQ&s=10",
-    "name2": "Sarpsborg 08",
-    "champ": "Norvège. Eliteserien",
     "heure": "15H00",
-    "date": "02/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "03/08/2026",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/1280px-Brann_logo.svg.png",
-    "name1": "Brann",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NZ95ODJ5Cnfc9PJqLZ62bpWCNYBj0zn4XwlEh-Vi4A&s=10",
-    "name2": "Rosenborg",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H15",
-    "date": "02/08/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/York_City_FC_Logo.svg/500px-York_City_FC_Logo.svg.png",
+    "name1": "York City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHjwjt3wKh--egWRCTeSajRbQwf76F5haHFf1gicdnSg&s",
+    "name2": "Crawley Town",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H30",
+    "date": "03/08/2026",
+    "pro": "Qualification Equipe 1"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bc/FK_Pardubice.png",
-    "name1": "Pardubice",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwjQ6FdKxEuyamxkUNmaJXSJpXSWSY8A_pR82Rf8N5w&s=10",
-    "name2": "Jablonec",
-    "champ": "Tchèque. Première Ligue",
-    "heure": "18H00",
-    "date": "02/08/2026",
+  {
+    "photo1": "https://images.seeklogo.com/logo-png/49/1/fc-ufa-logo-png_seeklogo-490158.png",
+    "name1": "Oufa",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ncvdt12BYBwwxgjerpiL3agbotJfAjxj1xnLZSjRkg&s=10",
+    "name2": "KAMAZ",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "14H00",
+    "date": "03/08/2026",
     "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d9/FC_Veles_logo_2020.png",
+    "name1": "Veles Moscow",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/de/Rotor_Volgograd_2018.png",
+    "name2": "Rotor Volgograd",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "16H30",
+    "date": "03/08/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUcCjhOd52d12P_afzWhvQUG9P8-SHWg5dN_2dHw8Kw&s=10",
+    "name1": "Odense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_S%C3%B8nderjyskE.svg/1280px-Logo_S%C3%B8nderjyskE.svg.png",
+    "name2": "SonderjysKe",
+    "champ": "Danemark. Superliga",
+    "heure": "17H00",
+    "date": "03/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
