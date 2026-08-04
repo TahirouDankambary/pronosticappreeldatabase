@@ -1,62 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/83/Al-hilal_logo.png",
-    "name1": "Al Hilal Riyadh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Al-Ahli_Doha_%28logo%29.svg/1280px-Al-Ahli_Doha_%28logo%29.svg.png",
-    "name2": "Al Ahli Doha",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "03/08/2026",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETWcpDAtKMz6wVeRWwEx8j0W0teQEFUKTRxRkiVu94A&s=10",
+    "name1": "Ararat - Armenie",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvlGTFeQBgSVVJEffpjO1L23xUZcHdeEZ-aljtt3OVg&s=10",
+    "name2": "Celje",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "04/08/2026",
+    "pro": "Total: (+2)"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/2e/Logo_Al_Shabab_FC_Riyad.png",
-    "name1": "Al Shabab Riyadh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_MC_Alger_1921.png",
-    "name2": "MC Alger",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "03/08/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/York_City_FC_Logo.svg/500px-York_City_FC_Logo.svg.png",
-    "name1": "York City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHjwjt3wKh--egWRCTeSajRbQwf76F5haHFf1gicdnSg&s",
-    "name2": "Crawley Town",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H30",
-    "date": "03/08/2026",
-    "pro": "Qualification Equipe 1"
-  },
-  {
-    "photo1": "https://images.seeklogo.com/logo-png/49/1/fc-ufa-logo-png_seeklogo-490158.png",
-    "name1": "Oufa",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ncvdt12BYBwwxgjerpiL3agbotJfAjxj1xnLZSjRkg&s=10",
-    "name2": "KAMAZ",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "14H00",
-    "date": "03/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/3840px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
+    "name1": "Mjallby AIF",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png",
+    "name2": "Slovan Bratislava",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "04/08/2026",
     "pro": "12"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d9/FC_Veles_logo_2020.png",
-    "name1": "Veles Moscow",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/de/Rotor_Volgograd_2018.png",
-    "name2": "Rotor Volgograd",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "16H30",
-    "date": "03/08/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fb/PFC_Levski_Sofia.png",
+    "name1": "Levski Sofia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/FC_Kairat_%28logo%29.svg/960px-FC_Kairat_%28logo%29.svg.png",
+    "name2": "Kairat",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "17H30",
+    "date": "04/08/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUcCjhOd52d12P_afzWhvQUG9P8-SHWg5dN_2dHw8Kw&s=10",
-    "name1": "Odense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_S%C3%B8nderjyskE.svg/1280px-Logo_S%C3%B8nderjyskE.svg.png",
-    "name2": "SonderjysKe",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "03/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c0/Hapoel_Beer_Sheva_FC.png",
+    "name1": "Hapoel Beer Sheva",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/c/c5/OK_Crvena_Zvezda%28logo%29.png",
+    "name2": "Crvena Zvezda",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "17H30",
+    "date": "04/08/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name1": "Olympiacos Piraeus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_NEC_Nijmegen_2024.svg/1280px-Logo_NEC_Nijmegen_2024.svg.png",
+    "name2": "NEC",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H00",
+    "date": "04/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/250px-AC-Sparta-LOGO2021.svg.png",
+    "name1": "AC Sparta Prague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1280px-Logo_Olympique_Lyonnais_-_2022.svg.png",
+    "name2": "Lyon",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H00",
+    "date": "04/08/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Royale_Union_Saint-Gilloise_2025.svg/1280px-Logo_Royale_Union_Saint-Gilloise_2025.svg.png",
+    "name1": "Royal Saint Gilloise",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrBbR6TgAzo67D1VLZ9WUXIWorV3kbD0sOZHuNWc-nQ&s=10",
+    "name2": "Bodo Glimt",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H00",
+    "date": "04/08/2026",
     "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_INuboOMdQGDhJhYF1EJYkSvQJp4xgsan4ob207Alw&s",
+    "name1": "Larne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/65/Saburtalo_Tbilissi_Logo_2021.png",
+    "name2": "Iberia 1999",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "19H00",
+    "date": "04/08/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
