@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5t9-a1oKF8DydDUBaRYXZy4c-aH9VWRBKwRpw-TBCA&s=10",
-    "name1": "AGF Arhus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png",
-    "name2": "Sabah Baku",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H30",
-    "date": "05/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrpvJdyN6znJFQea0fVha4xhc_75TBoOdjehudSgQ3kA&s=10",
+    "name1": "Kuopion Palloseura",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_Universitatea_Craiova.svg/langfr-250px-Logo_Universitatea_Craiova.svg.png",
+    "name2": "CS Universitatea Craiova",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "15H00",
+    "date": "06/08/2026",
+    "pro": "12"
   },
      {
-    "photo1": "https://www.footylogos.com/downloads/logo/fenerbahce-logo-footylogos.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
-    "name2": "Sturm Graz",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "05/08/2026",
-    "pro": "Qualification Equipe 1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1280px-Logo_Ferencv%C3%A1ros_TC.svg.png",
-    "name1": "Ferencvarosi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Gornik_Zabrze.svg/500px-Logo_Gornik_Zabrze.svg.png",
-    "name2": "Gornik Zabrze",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/45/Maccabi_Tel_Aviv_FC.png",
+    "name1": "Maccabi Tel Aviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/500px-CSKA_Sofia_logo.svg.png",
+    "name2": "CSKA Sofia",
     "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H15",
-    "date": "05/08/2026",
-    "pro": "Qualification Equipe 1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQx84S40t8kb3O6t2x896FnJXtSc2Y5RbbDt0s2AZjLg&s=10",
-    "name1": "Spartak Moscou",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC7fRIUQnYtPc4j_PzZtmBMUlVl2IWL-szJLM8WbMEHQ&s=10",
-    "name2": "Orenbourg",
-    "champ": "Coupe de Russie",
-    "heure": "15H30",
-    "date": "05/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1280px-Fakel_Voronezh_logo.svg.png",
-    "name1": "Fakel Voronej",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmraZIk7_dSE9NqcDbFkXms6CjDWvRlW9K9XMWiAnrZR2_9yjW1Zys_dY&s=10",
-    "name2": "Dynamo Moscou",
-    "champ": "Coupe de Russie",
-    "heure": "15H30",
-    "date": "05/08/2026",
+    "heure": "16H00",
+    "date": "06/08/2026",
     "pro": "Total: (+2)"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jagiellonia_logo.png",
+    "name1": "Jagiellonia Białystok",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-C18SEPGsROoAqjRRBwFmsm8fV5WSwcDhik_aQya7g&s=10",
+    "name2": "Rangers",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "16H00",
+    "date": "06/08/2026",
+    "pro": "12"
+  },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJRlzeQImAaRE5BbakONivVBNQG1JypMZMuZCIsY-og&s=10",
-    "name1": "Krasnodar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/1920px-Akhmat_Grozny_Logo.svg.png",
-    "name2": "Akhmat",
-    "champ": "Coupe de Russie",
-    "heure": "17H45",
-    "date": "05/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/4/4d/FC_Hradec_Kr%C3%A1lov%C3%A9_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Hradec Kralove",
+    "photo2": "https://logos-world.net/wp-content/uploads/2020/07/Besiktas-Logo.png",
+    "name2": "Besiktas",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H00",
+    "date": "06/08/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Lech_Pozna%C5%84_2022.svg/1920px-Logo_Lech_Pozna%C5%84_2022.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Lech Poznan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/84/KI_Klaksvik.png",
+    "name2": "Ki Klaksvik",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H00",
+    "date": "06/08/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/34/FC_Salzburg_logo.png",
+    "name1": "FC Salzburg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5wqtLFlW1RFpujoXhmgqUJVCmTW-qdzztXsMWaw5rw&s=10",
+    "name2": "Pafos",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H00",
+    "date": "06/08/2026",
+    "pro": "Total: (+2)"
   }
 ]
