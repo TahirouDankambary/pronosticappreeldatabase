@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1280px-Fakel_Voronezh_logo.svg.png",
-    "name1": "Fakel Voronej",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/1920px-Akhmat_Grozny_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Akhmat",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H30",
-    "date": "10/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/FC_Kairat_%28logo%29.svg/1920px-FC_Kairat_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Kairat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fb/PFC_Levski_Sofia.png",
+    "name2": "Levski Sofia",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "15H00",
+    "date": "11/08/2026",
     "pro": "12"
   },
      {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqhvG-7dbG0edWByUex03HPK5YrLa46NJXi4W0rT-5w&s=10",
-    "name1": "Santa Clara",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_CD_Nacional.svg/1280px-Logo_CD_Nacional.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Nacional da Madeira",
-    "champ": "Portugal. Primerira Liga",
-    "heure": "19H15",
-    "date": "10/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11rZ0P6IEuMKiroKuqWzo1VT7XiZcdsy2o8jW_wFtgA&s=10",
-    "name1": "Silkeborg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUcCjhOd52d12P_afzWhvQUG9P8-SHWg5dN_2dHw8Kw&s=10",
-    "name2": "Odense",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "10/08/2026",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/960px-Logo_AZ_Alkmaar.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20241116082447",
-    "name1": "Alkmaar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/b/b2/FC_Eindhoven_logo.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Eindhoven",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "10/08/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1280px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name1": "PSV Eindhoven",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/35/FC_Volendam_logo.png",
-    "name2": "Volendam",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "10/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/3840px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name1": "Bodo-Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Royale_Union_Saint-Gilloise_2025.svg/1280px-Logo_Royale_Union_Saint-Gilloise_2025.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Royale Union Saint Gilloise",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "11/08/2026",
     "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg/1280px-V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg.png",
-    "name1": "Vasteras SK",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYkBErr3rzdL_FYSrZ9atO6kFTUoivUlh7tm6cOs9aw&s=10",
-    "name2": "Djurgardens",
-    "champ": "Suède. Allsvenskan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Sabah Baku",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "AGF Aarhus",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "11/08/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/960px-Logo_%C5%BDalgiris_Kaunas.svg.png",
+    "name1": "Zalgiris Kaunas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/960px-Logo_GNK_Dinamo_Zagreb_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Dinamo Zagreb",
+    "champ": "Ligue des champions de l'UEFA",
     "heure": "17H00",
-    "date": "10/08/2026",
+    "date": "11/08/2026",
     "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWfW0wf_EoZcuSKdoCTqw0agnBubPHnUwVksAxzz4ww&s=10",
+    "name1": "NEC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name2": "Olympiacos Piraeus",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "17H30",
+    "date": "11/08/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Slovan Bratislava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/3840px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
+    "name2": "Mjallby AIF",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H15",
+    "date": "11/08/2026",
+    "pro": "1X"
   }
 ]
