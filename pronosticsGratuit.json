@@ -1,62 +1,92 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/FC_Kairat_%28logo%29.svg/1920px-FC_Kairat_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Kairat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fb/PFC_Levski_Sofia.png",
-    "name2": "Levski Sofia",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "15H00",
-    "date": "11/08/2026",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ZG8hgTmM0Mh7lMDu-5ezsaxkwyrC9R1Igsgnpcp78g&s=10",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/250px-Aston_Villa_FC_new_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Aston Villa",
+    "champ": "Supercoupe de l'UEFA",
+    "heure": "19H00",
+    "date": "12/08/2026",
+    "pro": "Equipe 1 gagnera la coupe"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/3840px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name1": "Bodo-Glimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Royale_Union_Saint-Gilloise_2025.svg/1280px-Logo_Royale_Union_Saint-Gilloise_2025.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Royale Union Saint Gilloise",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "11/08/2026",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/Logo_RC_Deportivo_2026.svg/1280px-Logo_RC_Deportivo_2026.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Deportivo de la Coruna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1920px-Logo_Real_Madrid.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Real Madrid",
+    "champ": "Matchs amicaux de clubs. Top",
+    "heure": "19H00",
+    "date": "12/08/2026",
+    "pro": "V2"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Sabah Baku",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "AGF Aarhus",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "11/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://assets.football-logos.cc/logos/england/700x700/nottingham-forest.0594f24a.png",
+    "name1": "Forest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/3840px-Bayer_04_Leverkusen_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Leverkusen",
+    "champ": "Matchs amicaux de clubs. Top",
+    "heure": "18H45",
+    "date": "12/08/2026",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/960px-Logo_%C5%BDalgiris_Kaunas.svg.png",
-    "name1": "Zalgiris Kaunas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/960px-Logo_GNK_Dinamo_Zagreb_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Dinamo Zagreb",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "17H00",
-    "date": "11/08/2026",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWfW0wf_EoZcuSKdoCTqw0agnBubPHnUwVksAxzz4ww&s=10",
-    "name1": "NEC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name2": "Olympiacos Piraeus",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "17H30",
-    "date": "11/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leeds_United_FC.svg/1920px-Logo_Leeds_United_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Leeds United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/960px-Logo_Manchester_United_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Man United",
+    "champ": "Matchs amicaux de clubs. Top",
+    "heure": "18H30",
+    "date": "12/08/2026",
     "pro": "2X"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/960px-Arsenal_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20080620173452",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/500px-Logo_Como_1907_2019.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Como",
+    "champ": "Matchs amicaux de clubs. Top",
+    "heure": "18H30",
+    "date": "12/08/2026",
+    "pro": "V1"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Slovan Bratislava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/3840px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
-    "name2": "Mjallby AIF",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H15",
-    "date": "11/08/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4HUPfLp2vcHRSCZOEG7J4NwMjRURy8e25KHYK6Y1Hw&s=10",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Everton_FC_2014.svg/3840px-Logo_Everton_FC_2014.svg.png",
+    "name2": "Everton",
+    "champ": "Matchs amicaux de clubs. Top",
+    "heure": "16H15",
+    "date": "12/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/3840px-Logo_FC_Copenhagen_%281992-2024%29.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Debreceni_VSC_%28logo%29.svg/1280px-Debreceni_VSC_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Debreceni VSC",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "12/08/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+      {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/16/GKS-Katowice.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Katowice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/ac/Hapoel_Tel_Aviv_F.C.png",
+    "name2": "Hapoel Tel Aviv",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "12/08/2026",
+    "pro": "Total: (+2)"
+  },
+     {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpV6ydXL0A21ybumFDdPQF2qXGWCJ8iZKfKsXiVv2VQ&s=10",
+    "name1": "AEK Athènes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/4c/OFI_Crete_FC_logo.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "OFI Crete",
+    "champ": "Supercoupe de Grèce",
+    "heure": "17H00",
+    "date": "12/08/2026",
+    "pro": "12"
   }
 ]
