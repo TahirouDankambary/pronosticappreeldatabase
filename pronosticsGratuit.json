@@ -1,82 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKhHVMsnCbAyB2AZsHY7rFMlL2gBs9SgH2xVlJL-9hyQ&s=10",
-    "name1": "Heidenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Bayern Munich",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPe_3w_ZilaB4NeqmYBi4PoVsYiWIN50c_OBQTxJ0MgA&s=10",
+    "name1": "Barcelone",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5doxUqUAjRMUhRwMGn5Hjrg1ur_J9eMa8JHuqNcQkA&s=10",
+    "name2": "Al Ahly le Caire",
     "champ": "Matchs amicaux de clubs. Top",
-    "heure": "16H00",
-    "date": "18/08/2026",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "heure": "18H00",
+    "date": "19/08/2026",
+    "pro": "V1 Et TP(2.5) - OUI"
   },
     {
-    "photo1": "https://assets.football-logos.cc/logos/turkey/700x700/fenerbahce.0df7e3ee.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO6CHqiF0JBPwxnzwE1YGOf34H73Pw0wUqAEiyi7p4Q&s=10",
-    "name2": "Lyon",
-    "champ": "Ligue des Champions de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Atl.Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/960px-Logo_M%C3%A1laga_CF.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Malaga",
+    "champ": "Espagne. LaLiga",
     "heure": "19H00",
-    "date": "18/08/2026",
-    "pro": "Total: (+2)"
+    "date": "19/08/2026",
+    "pro": "V1"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/960px-Logo_GNK_Dinamo_Zagreb_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Dinamo Zagreb",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBchioHjee3lG_Ia6YybwziYHknPhfR3hbS1uDF7LzkVa-AauIr4iwNg&s=10",
-    "name2": "Viking",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaED28H1lNL48TeHuF0tAXgDRWfORPCIgr3DQfc5dN9w&s=10",
+    "name1": "Celtic",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCirFxVT4rjJjMulKCBUsl0eFE705nhEjqDwzLSZ5A_A&s=10",
+    "name2": "LASK Linz",
     "champ": "Ligue des Champions de l'UEFA",
     "heure": "19H00",
-    "date": "18/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "19/08/2026",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fb/PFC_Levski_Sofia.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Levski Sofia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpV6ydXL0A21ybumFDdPQF2qXGWCJ8iZKfKsXiVv2VQ&s=10",
-    "name2": "AEK Athènes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Slovan Bratislava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NK_Celje_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Celje",
     "champ": "Ligue des Champions de l'UEFA",
     "heure": "19H00",
-    "date": "18/08/2026",
+    "date": "19/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ZK4wWQeUGtySSECZq39GnbTIc_2I4ODKw5gGuXNv2Q&s=10",
+    "name1": "Hapoel Beer Sheva",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Sabah Baku",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "19H00",
+    "date": "19/08/2026",
     "pro": "12"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Rodina_Moscou_Logo.svg/1280px-Rodina_Moscou_Logo.svg.png",
-    "name1": "Rodina Moscow",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC7fRIUQnYtPc4j_PzZtmBMUlVl2IWL-szJLM8WbMEHQ&s=10",
-    "name2": "Orenbourg",
-    "champ": "Coupe de Russie",
-    "heure": "15H30",
-    "date": "18/08/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/langfr-250px-PFK_CSKA_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "CSKA Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/50/Akron_Togliatti_Logo_2020.png",
-    "name2": "Akron Tolyatti",
-    "champ": "Coupe de Russie",
-    "heure": "15H30",
-    "date": "18/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
     {
-    "photo1": "https://assets.football-logos.cc/logos/russia/1500x1500/rostov.e1757b5d.png",
-    "name1": "Rostov",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1920px-FC_Lokomotiv_Moscow_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Lokomotiv Moscou",
-    "champ": "Coupe de Russie",
-    "heure": "17H45",
-    "date": "18/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://assets.football-logos.cc/logos/saudi-arabia/1500x1500/diriyah-club.8eee2780.png",
-    "name1": "Al Draih",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR19tcADXE0Ow0ykpSdmpF4L-1vFuq4Bx0MQYnSuQFzrA&s=10",
-    "name2": "Al Nassr",
-    "champ": "Coupe d'Arabie Saoudite",
-    "heure": "18H00",
-    "date": "18/08/2026",
-    "pro": "Qualification Equipe 2"
+    "photo1": "https://cdn.freebiesupply.com/logos/large/2x/nec-nijmegen-logo-png-transparent.png",
+    "name1": "NEC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrBbR6TgAzo67D1VLZ9WUXIWorV3kbD0sOZHuNWc-nQ&s=10",
+    "name2": "Bodo Glimt",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "19H00",
+    "date": "19/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
