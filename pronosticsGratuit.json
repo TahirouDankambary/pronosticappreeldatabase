@@ -58,5 +58,15 @@
     "heure": "19H00",
     "date": "19/08/2026",
     "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjkJtuKwnLeTdTWTbYLpCC-2Xh22m508ttbDJBTFhnQ&s=10",
+    "name1": "Rubin Kazan",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFclvjGOc0RjjrLKo14sdZDB7NIRxu_z-cpvhREkufQ&s",
+    "name2": "Spartak Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "15H30",
+    "date": "19/08/2026",
+    "pro": "Total: (+2)"
   }
 ]
