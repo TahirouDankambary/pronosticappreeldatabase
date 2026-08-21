@@ -1,102 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/960px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20241214224837",
-    "name1": "Rayo Vallecano",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRig-0VC-cnZNlSGTXpA-7OR9633ZIUMEVvchSy5yHuzw&s=10",
-    "name2": "Deportivo Alavés",
-    "champ": "Espagne. LaLiga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/5/53/Arsenal_FC.svg/330px-Arsenal_FC.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Arsenal",
+    "photo2": "https://assets.football-logos.cc/logos/england/1500x1500/coventry-city.c4fc9437.png",
+    "name2": "Coventry City",
+    "champ": "Angleterre. Premier League",
     "heure": "19H00",
-    "date": "20/08/2026",
+    "date": "21/08/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Real Betis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1280px-Logo_Real_Sociedad_2017.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Real Sociedad",
+    "champ": "Esapgne. LaLiga",
+    "heure": "19H00",
+    "date": "21/08/2026",
+    "pro": "Total: (+2)"
+  },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/2e/Logo_Olympique_de_Marseille_2026.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Olympique de Marseille",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/1280px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Strasbourg",
+    "champ": "France. Ligue 1",
+    "heure": "18H45",
+    "date": "21/08/2026",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/1280px-F.C._Hansa_Rostock_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Hansa Rostock",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJmfVZDXRAB9KDpothSV12NQc2SWgZOYPyg2P9zmRcJQ&s=10",
+    "name2": "Stuttgart",
+    "champ": "Coupe d'Allemagne DFB Pokal",
+    "heure": "18H45",
+    "date": "21/08/2026",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT309r_OwpXKNtwlTtmPsHk2wWM9JlMdo6g_OBJR0L75A&s=10",
+    "name1": "Torpedo Moscou",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd66uhi4_ZZMc1wtSZoRGUU-wwiTvX6j4vuT-qyUQdPw&s",
+    "name2": "Spartak Kostroma",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "16H30",
+    "date": "21/08/2026",
     "pro": "12"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5a5_nFXhdm505-8J1zmwLZ33cfeJE4UzrZnyyaDmhMA&s",
-    "name1": "Kairat",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyO1dOzBo8UgWvhvKyccodVGP-AB__0ARpHNmufl36Q&s=10",
-    "name2": "Anderlecht",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "15H00",
-    "date": "20/08/2026",
-    "pro": "2X"
-  },
-     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTpra8Goq-IkopQCAIuv9ORsQyOYejVrTMYzJ4NrYyvg&s",
-    "name1": "Mjallby AIF",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ6rFjwOW5eyRKoQ4WntLKaauOVZ1TYN8VNYi73U02rQ&s=10",
-    "name2": "FC Salzburg",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "16H00",
-    "date": "20/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://logos-marques.com/wp-content/uploads/2020/06/Vitesse-logo.png",
+    "name1": "Vitesse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/86/Almere_City_FC_logo.PNG?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Almere City",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "21/08/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJiMgY5TgdgRIsjDQEsRVHHR6wtz45ihHsgsEIgsjb_g&s=10",
-    "name1": "Jagiellonia Bialystok",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBH6nWZjG58S1uFpf4UOdf9_gi6FVAol48zqL9zT1_xQ&s",
-    "name2": "Iberia 1999",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "16H00",
-    "date": "20/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4B1B5QTJ8JLfp9o0IFZ3Z00YN0h8jBTgUQGZq8Nb7w&s",
-    "name1": "Besiktas",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VSqNOvCN-s11hzrTu9M5h3L35a0kEI1eZ6vbjHNGrA&s=10",
-    "name2": "Zalgiris Kaunas",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "20/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHsowEHJZHTT9-uiMXE1ZmBLOBPfVMKVnUYQSki0fYMQ&s=10",
-    "name1": "CS Universitatea Craiova",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETWcpDAtKMz6wVeRWwEx8j0W0teQEFUKTRxRkiVu94A&s=10",
-    "name2": "Ararat Armenia",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "20/08/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJeBHACuPGj4nQ9wgYYqcqrtXEudmGlGN4cECUDvvsWQ&s=10",
-    "name1": "Atalanta",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7-S37zhjGEUy7yJNE5-OFUjRg5NXEFZd_DZuzNqL4Pg&s=10",
-    "name2": "Hapoel Tel Aviv",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "18H30",
-    "date": "20/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SC548DBT38z9Yv6EP7mdJt4Kl4U_sa8QDF_EUSca8A&s=10",
-    "name1": "KAA La Gantoise",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EHFYla1GNoI03AdOBrx4MIHxLNVJiRA1M3uaHc-b5A&s=10",
-    "name2": "Hibernian",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "18H30",
-    "date": "20/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Den_Bosch_logo.svg/3840px-FC_Den_Bosch_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Den Bosch",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/b/b2/FC_Eindhoven_logo.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Eindhoven",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "21/08/2026",
     "pro": "1X"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSn2tjc5eodHALBXT-PHfOcpkGdmVrhzl6e5jdB-rtqg&s=10",
-    "name1": "Inter Turku",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ORDLOOzynL-qhlR0OdnZbwGkxJO0w3C3AzEOrqLw6w&s=10",
-    "name2": "Copenhague",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "20/08/2026",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4OwNYgdtAB0MoYnRGox6xnZ3b-jizLrc0q8fIFd5ug&s=10",
-    "name1": "Midtjylland",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWab5w9Eg-O20ElAUZjDt42GvhkeP8nd0_XGYl-_Zwsw&s",
-    "name2": "Rijeka",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "17H00",
-    "date": "20/08/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/33/FC_Dordrecht.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Dordrecht",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNGiY4OqauGHhbc_6NiB7ppVYbIPWmJ3GaOfZUJbkkg&s=10",
+    "name2": "Roda JC Kerkrade",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "21/08/2026",
+    "pro": "Total: (+2)"
   }
 ]
