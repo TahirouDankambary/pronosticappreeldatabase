@@ -1,82 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETWcpDAtKMz6wVeRWwEx8j0W0teQEFUKTRxRkiVu94A&s=10",
-    "name1": "Ararat Armenie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a7/CS_U_Craiova.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "CS Universitatea Craiova",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "16H00",
-    "date": "27/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/65/Saburtalo_Tbilissi_Logo_2021.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Iberia 1999",
-    "photo2": "https://assets.football-logos.cc/logos/poland/1500x1500/jagiellonia.6848e31a.png",
-    "name2": "Jagiellonia Białystok",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "16H00",
-    "date": "27/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/1e/Logo_Crystal_Palace_FC_-_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Crystal Palace",
+    "photo2": "https://assets.football-logos.cc/logos/england/1500x1500/manchester-city.8d2b6688.png",
+    "name2": "Man City",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H00",
+    "date": "28/08/2026",
     "pro": "2X Et TP(1.5) - OUI"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/330px-Deportivo_Alaves_logo_%282020%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20200906123708",
+    "name1": "Deportivo Alavés",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzY5HKSUQFp0QBRVpcbPHIJ8_ohSPi7Eq1LqBQvjxXAQ&s=10",
+    "name2": "Villarreal",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H30",
+    "date": "28/08/2026",
+    "pro": "Total: (+2)"
+  },
      {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJqFVJ1oKrqj2jVccfGv1MrOLiuhsFnyyGTee2ERjug&s=10",
-    "name1": "Viktoria Plzen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMeZICY2P8Zb-6ML9Q06NtzAK9npw8-Pu1LC1dYQl-6g&s=10",
-    "name2": "Crvena Zvezda",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "27/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/17/AC_Milan.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Venise",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "28/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Bayern Munich",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJmfVZDXRAB9KDpothSV12NQc2SWgZOYPyg2P9zmRcJQ&s=10",
+    "name2": "Stuttgart",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "18H30",
+    "date": "28/08/2026",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "photo1": "https://assets.football-logos.cc/logos/france/700x700/lille.3695616f.png",
+    "name1": "Lille",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1280px-Logo_Paris_Saint-Germain_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "PSG",
+    "champ": "France. Ligue 1",
+    "heure": "18H45",
+    "date": "28/08/2026",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/960px-Logo_%C5%BDalgiris_Kaunas.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Zalgiris Kaunas",
-    "photo2": "https://logos-world.net/wp-content/uploads/2020/07/Besiktas-Logo.png",
-    "name2": "Besiktas",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "27/08/2026",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/34/FC_Salzburg_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "FC Salzburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/3840px-Mj%C3%A4llby_AIF_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Mjallby AIF",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "27/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "AGF Aarhus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/960px-SL_Benfica_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20191027195421",
-    "name2": "Benfica",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H00",
-    "date": "27/08/2026",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://assets.football-logos.cc/logos/switzerland/700x700/thun.7faed3d8.png",
-    "name1": "Thun",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxUv13OzHMM104S3x15HQRN02YCDLYrHpCncYbnSLYg&s=10",
-    "name2": "Lech Poznan",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H00",
-    "date": "27/08/2026",
-    "pro": "Total: (+2.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOI849Og6XeaGiV7J4NP6EirsFlXUs-6_09mCfuQDlCEFhMegD812KD3zf&s=10",
-    "name1": "CSKA Sofia",
-    "photo2": "https://i.pinimg.com/474x/8f/1d/49/8f1d49556e3ccb2cb46e9b4ec10e8695.jpg",
-    "name2": "OFI Crete",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H00",
-    "date": "27/08/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/50/Akron_Togliatti_Logo_2020.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20201117212555",
+    "name1": "Akron Tolyatti",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/langfr-250px-PFK_CSKA_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "CSKA Moscou",
+    "champ": "Russie. Première Ligue",
+    "heure": "15H00",
+    "date": "28/08/2026",
+    "pro": "12"
   }
 ]
