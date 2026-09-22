@@ -1,62 +1,72 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarrf6aT0-jyvz5leFdCbd0o9kNHLpcR4vn4-Fs2NW_g&s",
-    "name1": "Dolomiti Bellunesi",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jSNfYTSa0EJ2sQA7SuYczssRJHW-D549QMSKW-j__Q&s=10",
-    "name2": "Lumezzane",
-    "champ": "Italie. Série C. Groupe A",
-    "heure": "18H30",
-    "date": "21/09/2026",
-    "pro": "1X"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg/1280px-Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Bayern (Femmes)",
+    "photo2": "https://assets.football-logos.cc/logos/england/1500x1500/manchester-city.8d2b6688.png",
+    "name2": "Man City (Femmes)",
+    "champ": "UEFA. Femmes",
+    "heure": "16H45",
+    "date": "22/09/2026",
+    "pro": "Total: (+2.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwG87GfSmlpQ2KncLwQohtK0E1kaInZBvA5eYwpn85KnprdITO5dnbDvkP&s=10",
-    "name1": "Trévise",
-    "photo2": "https://assets.football-logos.cc/logos/italy/700x700/desenzano.17228cad.png",
-    "name2": "Calcio Desenzano",
-    "champ": "Italie. Série C. Groupe A",
-    "heure": "18H30",
-    "date": "21/09/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Internazionale (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF92NXNP4pmDJBRzDL5hIWSeplxLeeXRvcl-bsXaETw&s=10",
+    "name2": "Hacken (Femmes)",
+    "champ": "UEFA. Femmes",
+    "heure": "16H45",
+    "date": "22/09/2026",
+    "pro": "Total: (+2)"
   },
      {
-    "photo1": "https://assets.footylogos.com/previews/ac-trento-1921-logo-footylogos-1200.webp",
-    "name1": "Trento",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_rZoNYI2Rs-i7kCAvBaE0USNaQ4W1ENuQgtc--_8dw&s=10",
-    "name2": "Pro Vercelli 1892",
-    "champ": "Italie. Série C. Groupe A",
-    "heure": "18H30",
-    "date": "21/09/2026",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/sco/thumb/5/53/Arsenal_FC.svg/250px-Arsenal_FC.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Arsenal LFC (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAlEc4ztzfU_H7GG6tgX84ozaoYSnK88zbRx214ud-hw&s=10",
+    "name2": "HB Koge (Femmes)",
+    "champ": "UEFA. Femmes",
+    "heure": "19H00",
+    "date": "22/09/2026",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUhfzIRUvErgrbCM5do5RxdS2Njlz2mQRgCTcQp5khjA&s=10",
+    "name1": "Real Madrid (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6I1RomtvfNaqI7vI4mTdFRIXevNZ3ub_86SH7kNlh_g&s=10",
+    "name2": "PSG (Femmes)",
+    "champ": "UEFA. Femmes",
+    "heure": "19H00",
+    "date": "22/09/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2lqueiwLkqPTxPoy1spd5lHc8PbQuUHUkKPUBCfMGdQ&s=10",
+    "name1": "Juventus (Femmes)",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKx2duygk4lKoVUmEJbKebFYkK_yyHxezJWmVCFcMxA&s=10",
+    "name2": "Benfica (Femmes)",
+    "champ": "UEFA. Femmes",
+    "heure": "19H00",
+    "date": "22/09/2026",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f3/FC_Petr%C5%BEalka_crest.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Petrzalka",
-    "photo2": "https://images.seeklogo.com/logo-png/35/1/fk-pohronie-ziar-nad-hronom-logo-png_seeklogo-356343.png",
-    "name2": "Pohronie",
-    "champ": "Slovaquie. 2 Liga",
-    "heure": "15H00",
-    "date": "21/09/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/5f/Worksop_Town_FC_updated_crest.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Worksop Town",
+    "photo2": "https://iconape.com/wp-content/files/kb/327678/png/327678.png",
+    "name2": "Telford United",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "22/09/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://assets.footylogos.com/previews/fk-jedinstvo-ub-logo-footylogos-1200.webp",
-    "name1": "Jedinstvo Ub",
-    "photo2": "https://images.seeklogo.com/logo-png/39/1/fk-loznica-logo-png_seeklogo-394682.png",
-    "name2": "Loznica",
-    "champ": "Serbie. 1ère Ligue",
-    "heure": "16H00",
-    "date": "21/09/2026",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Metalac_Gornji_Milanovac.svg/1280px-Metalac_Gornji_Milanovac.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Metalac Gornji",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6c/RFK_Grafi%C4%8Dar_Beograd_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Graficar Beograd",
-    "champ": "Serbie. 1ère Ligue",
-    "heure": "16H00",
-    "date": "21/09/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Asser_Christelijke_Voetbalvereniging_logo.svg/1280px-Asser_Christelijke_Voetbalvereniging_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Asser Christelijke",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/3a/VV_Hoogeveen.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Hoogeveen",
+    "champ": "Coupe de Pays-Bas. KNVB Beker",
+    "heure": "18H00",
+    "date": "22/09/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
   }
 ]
