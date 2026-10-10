@@ -7,9 +7,10 @@
     "champ": "Angleterre. Premier League",
     "heure": "16H30",
     "date": "10/10/2026",
-    "pro": "1X"
+    "pro": "1X",
+    "proba": true
   },
-    {
+  {
     "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/3840px-Logo_FC_Barcelona.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "name1": "Barcelone",
     "photo2": "https://assets.football-logos.cc/logos/spain/256x256/getafe.edd42c3d.png",
@@ -17,9 +18,10 @@
     "champ": "Espagne. La Liga",
     "heure": "16H30",
     "date": "10/10/2026",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "pro": "V1 Et TP(2.5) - OUI",
+    "proba": true
   },
-     {
+  {
     "photo1": "https://thumb.wikimedia.org/wikipedia/sco/thumb/5/56/Real_Madrid_CF.svg/1920px-Real_Madrid_CF.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "name1": "Real Madrid",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzY5HKSUQFp0QBRVpcbPHIJ8_ohSPi7Eq1LqBQvjxXAQ&s=10",
@@ -27,9 +29,10 @@
     "champ": "Espagne. La Liga",
     "heure": "19H00",
     "date": "10/10/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "pro": "Deux équipes vont marquer: OUI",
+    "proba": false
   },
-    {
+  {
     "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/3840px-FC_Internazionale_Milano_2021.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "name1": "Inter Milan",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Parma_F.C._logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
@@ -37,7 +40,8 @@
     "champ": "Italie. Série A",
     "heure": "16H00",
     "date": "10/10/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "pro": "V1 Et TP(1.5) - OUI",
+    "proba": true
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9EPk6n_TwbxBr5p7UZyot3E9CCdf3CE2lruLwczxKLA&s=10",
@@ -47,9 +51,10 @@
     "champ": "France. Ligue 1",
     "heure": "15H15",
     "date": "10/10/2026",
-    "pro": "Total: (+2)"
+    "pro": "Total: (+2)",
+    "proba": false
   },
-    {
+  {
     "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/500px-Logo_AS_Monaco_FC_-_2021.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
     "name1": "AS Monaco",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkPL5So-yKt1I-MfVKzvv5kVptM50HfjyKePiWrS6dQ&s=10",
@@ -57,9 +62,10 @@
     "champ": "France. Ligue 1",
     "heure": "18H45",
     "date": "10/10/2026",
-    "pro": "Total: (+2)"
+    "pro": "Total: (+2)",
+    "proba": true
   },
-     {
+  {
     "photo1": "https://assets.football-logos.cc/logos/france/700x700/lorient.c3bd35bd.png",
     "name1": "Lorient",
     "photo2": "https://www.logotheque-vectorielle.fr/wp-content/uploads/2024/06/logo-vectoriel-paris-fc.jpg",
@@ -67,6 +73,7 @@
     "champ": "France. Ligue 1",
     "heure": "18H45",
     "date": "10/10/2026",
-    "pro": "Total: (+1.5)"
+    "pro": "Total: (+1.5)",
+    "proba": false
   }
 ]
