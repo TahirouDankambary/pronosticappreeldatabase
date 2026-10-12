@@ -24,7 +24,7 @@
   {
     "photo1": "https://brandlogos.net/wp-content/uploads/2013/11/cd-tenerife-vector-logo.png",
     "name1": "Ténérife",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/56/Logo_Girona_FC_-_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxaN4BiGmbSqj1qejjbDe_vDIjI2zJ6ylQP9tEjogRQ&s=10",
     "name2": "Gérone",
     "champ": "Espagne. Division 2",
     "heure": "19H00",
@@ -63,6 +63,6 @@
     "heure": "16H00",
     "date": "12/10/2026",
     "pro": "Total: (+2)",
-    "proba": false
+    "proba": true
   }
 ]
